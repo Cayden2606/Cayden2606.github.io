@@ -55,7 +55,7 @@ education:
   - area: Diploma in Electronic and Computer Enginnering
     institution: Nanyang Polytechnic
     date_start: 2023-04-01
-    date_end: 2024-3-01
+    date_end: 2024-03-01
     summary: |
       GPA: 3.99/4.0
 
