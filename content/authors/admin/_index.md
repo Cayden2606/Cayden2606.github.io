@@ -1,4 +1,4 @@
-<!-- ---
+---
 # Display name
 title: Cayden Miguel Theseira
 
@@ -113,18 +113,29 @@ work:
 skills:
   - name: Technical Skills
     items:
+skills:
+  - name: Technical Skills
+    items:
       - name: Python
         description: ''
         percent: 80
+        icon: code-bracket
+      - name: JavaScript
+        description: ''
+        percent: 75
+        icon: code-bracket
+      - name: HTML/CSS
+        description: ''
+        percent: 70
         icon: code-bracket
       - name: C
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: PCB Design (Autodesk Eagle)
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 60
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
@@ -188,193 +199,4 @@ awards:
 
 Cayden Theseira is a fresh graduate from Nanyang Polytechnic, holding a diploma in Electronic and Computer Engineering. With a strong passion for software development and a focus on computer engineering, Cayden's interests span IoT applications, user experience design, and innovative solutions for sustainability.
 <!-- 
-He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications. --> -->
----
-# Display name
-title: Cayden Miguel Theseira
-
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Cayden
-last_name: Theseira
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-# role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: OpenAI
-#     url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:caydenmtheseira@outlook.com'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/Cayden2606
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/cayden-theseira-48235233a/
-
-interests:
-  - Artificial Intelligence
-  - Internet Of Things
-  - Application Programming
-
-education:
-  - area: Diploma in Electronic and Computer Engineering
-    institution: Nanyang Polytechnic
-    date_start: 2023-04-01
-    date_end: 2026-03-01
-    summary: |
-      - Cumulative GPA: 3.99
-      - Director’s List for 3 consecutive semesters
-      - Edusave Bursary Award: 2024
-      - Specialised in Computer Engineering
-      - Student Mentor
-  - area: GCE O-Level
-    institution: Montfort Secondary School
-    date_start: 2019-01-01
-    date_end: 2022-11-30
-    summary: |
-      - GCE ‘O’ Levels: Net L1R4 – 12
-      - Edusave Good Progress Award: 2019
-      - Edusave Bursary Award: 2022
-
-work:
-  - position: Computer Engineer Intern
-    company_name: Micron Technology®
-    company_url: 'https://sg.micron.com/'
-    date_start: 2025-05-01
-    date_end: '2025-10-31'
-    summary: |2-
-      Responsibilities include:
-        - Assisted in the development and testing of memory solutions for embedded systems
-        - Designed automated scripts in Python to streamline performance diagnostics for NAND products
-        - Gained hands-on experience with PCB testing tools and debugging techniques
-
-personal_projects:
-  - title: IoT Smart Bus Stop (Final Year Project)
-    date: 2025-2026
-    summary: |
-      - Distinction grade project nominated for school showcase recognition and TechNexus 2026
-      - Led a team of four in developing a prototype bus stop with smart, safe, and sustainable features
-      - Utilised BeagleBone Black Wireless boards, sensors, a web server, and a dashboard
-      - Integrated Python, JavaScript, Node.js, SQL, and HTML/CSS; designed visually engaging UIs
-      - Created 3D mock-ups with Blender and presented to a panel of 5 during Q&A sessions
-  - title: Automatic Shutting System
-    date: 2023
-    summary: |
-      - 1st Place – TechNexus 2024, Year 1 Category; featured by M5Stack Company on LinkedIn
-      - Led a team to develop an automated refrigeration door system using M5Stacks and sensors
-      - Created 3D mock-ups using Tinkercad for planning
-
-extracurricular_activities:
-  - title: Student Mentor Programme (NYP)
-    date: 2024
-    summary: |
-      - Provided guidance to a class of 20 incoming students on academic and extracurricular pursuits
-  - title: World Robot Games
-    date: 2024
-    summary: |
-      - Tour Guide: Led a tour for over 20 international participants, showcasing engineering facilities
-      - Game Referee: Managed and officiated games, ensuring adherence to rules and fair play
-  - title: Section Leader, Military Band CCA (Montfort Secondary School)
-    date: 2021-2022
-    summary: |
-      - Led and collaborated with a team of 30; achieved Singapore Youth Festival 2021’s Accomplishment award
-
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: C
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: JavaScript
-        description: ''
-        percent: 70
-        icon: code-bracket
-      - name: HTML/CSS
-        description: ''
-        percent: 70
-        icon: code-bracket
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-      - name: PCB Design (Autodesk Eagle)
-        description: ''
-        percent: 60
-        icon: tools
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Computers
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Mandarin
-    percent: 75
-
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Studied foundational concepts of neural networks and deep learning. Learned to build, train, and apply fully connected neural networks, and identify key parameters in a neural network’s architecture.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned blockchain solutions, Bitcoin mechanics, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm.
-  - title: Object-Oriented Programming in R
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Intermediate-level course on OOP in R, using S3 and R6 systems for simplifying functions and building GUIs.
----
-
-## About Me
-
-Cayden Theseira is a fresh graduate from Nanyang Polytechnic, holding a diploma in Electronic and Computer Engineering. With a strong passion for software development and a focus on computer engineering, Cayden's interests span IoT applications, user experience design, and innovative solutions for sustainability.
-
-He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications.
-
+He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications. -->
