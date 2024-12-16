@@ -69,7 +69,7 @@ sections:
       title: My Projects 📚
       filters:
         folders:
-          - post
+          - projects
     design:
       view: article-grid
       columns: 2
