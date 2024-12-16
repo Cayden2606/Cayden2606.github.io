@@ -48,4 +48,4 @@ This project aims to address the significant energy consumption of refrigerators
 
 {{< youtube NVHdf7NcfQY >}}
 
-![test](../../authors/admin/avatar.png)
+![test](featured.jpg)
