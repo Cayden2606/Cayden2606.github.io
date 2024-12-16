@@ -48,14 +48,31 @@ This project aims to address the significant energy consumption of refrigerators
 
 {{< youtube NVHdf7NcfQY >}}
 
-![test](featured.jpg)
-![test](transmitter.jpg)
-![test](receiver.jpg)
-![test](dashboard.jpg)
-![test](blk-dia-trans.jpg)
-![test](Blk-Dia-rec.jpg)
-![test](flowchart1.jpg)
-![test](flowchart2.jpg)
+![featured.jpg](featured.jpg)  
+<span style="display: block; text-align: center; font-size: small;">Prototype</span>  
+
+![transmitter.jpg](transmitter.jpg)  
+<span style="display: block; text-align: center; font-size: small;">M5Stack 1 (Transmitter)</span>  
+
+![receiver.jpg](receiver.jpg)  
+<span style="display: block; text-align: center; font-size: small;">M5Stack 2 (Receiver)</span>  
+
+![dashboard.jpg](dashboard.jpg)  
+<span style="display: block; text-align: center; font-size: small;">Dashboard - Qubitro</span>  
+
+![blk-dia-trans.jpg](blk-dia-trans.jpg)  
+<span style="display: block; text-align: center; font-size: small;">Block Diagram for M5Stack 1 (Transmitter)</span>  
+
+![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)  
+<span style="display: block; text-align: center; font-size: small;">Block Diagram for M5Stack 2 (Receiver)</span>  
+
+![flowchart1.png](flowchart1.png)  
+<span style="display: block; text-align: center; font-size: small;">Flowchart for M5Stack 1 (Transmitter)</span>  
+
+![flowchart2.png](flowchart2.png)  
+<span style="display: block; text-align: center; font-size: small;">Flowchart for M5Stack 2 (Receiver)</span>  
+
+
 
 [Hackster.io Project Page](https://www.hackster.io/513083/automatic-shutting-system-66b8ab)  
 
