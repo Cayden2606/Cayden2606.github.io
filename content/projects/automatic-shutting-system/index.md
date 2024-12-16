@@ -17,9 +17,11 @@ tags:
   - Prototype
 ---
 
-Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
+[Hackster.io Project Page](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)  
+
+[LinkedIn Post by M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop)
 
 ## Story
 
@@ -54,22 +56,15 @@ This project aims to address the significant energy consumption of refrigerators
 ![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 1 (Transmitter)</span>  
 
 ![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 2 (Receiver)</span>  
-
 ![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Dashboard - Qubitro</span>  
-
 ![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 1 (Transmitter)</span>  
-
 ![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 2 (Receiver)</span>  
-
 ![flowchart1.png](flowchart1.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 1 (Transmitter)</span>  
-
 ![flowchart2.png](flowchart2.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 2 (Receiver)</span>  
 
 
 
-[Hackster.io Project Page](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)  
 
-[LinkedIn Post by M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop)
 
 
 
