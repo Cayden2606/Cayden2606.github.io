@@ -23,7 +23,7 @@ Welcome 👋
 
 ## Story
 
-Supermarket fridges consume enough electricity to power 800, 000 homes. A study by the Department of Environment, Food, and Rural Affairs found that the entire retail food sector uses around 3% of the UK's annual energy output. Refrigeration accounts for 30-60% of the electricity consumed in a supermarket. In food and grocery stores, refrigeration is the largest consumer of energy, operating non-stop and responsible for around half of the store’s total energy consumption.
+Supermarket fridges consume enough electricity to power 800, 000 homes. A study by the Department of Environment, Food, and Rural Affairs found that the entire retail food sector uses around 3% of the UK's annual energy output. Refrigeration accounts for 50-60% of the electricity consumed in a supermarket. In food and grocery stores, refrigeration is the largest consumer of energy, operating non-stop and responsible for around half of the store’s total energy consumption.
 
 This project aims to address the significant energy consumption of refrigerators and freezers in supermarkets by targeting the forgetfulness of shoppers who leave the doors open or take too long to close them, ultimately promoting environmental sustainability.
 
@@ -51,23 +51,23 @@ This project aims to address the significant energy consumption of refrigerators
 ![featured.jpg](featured.jpg)  
 <span style="display: block; text-align: center; font-size: small;">Prototype</span>  
 
-![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">M5Stack 1 (Transmitter)</span>  
+![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 1 (Transmitter)</span>  
 
-![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">M5Stack 2 (Receiver)</span>  
+![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 2 (Receiver)</span>  
 
-![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">Dashboard - Qubitro</span>  
+![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Dashboard - Qubitro</span>  
 
-![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">Block Diagram for M5Stack 1 (Transmitter)</span>  
+![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 1 (Transmitter)</span>  
 
-![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">Block Diagram for M5Stack 2 (Receiver)</span>  
+![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 2 (Receiver)</span>  
 
-![flowchart1.png](flowchart1.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">Flowchart for M5Stack 1 (Transmitter)</span>  
+![flowchart1.png](flowchart1.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 1 (Transmitter)</span>  
 
-![flowchart2.png](flowchart2.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-30px);">Flowchart for M5Stack 2 (Receiver)</span>  
+![flowchart2.png](flowchart2.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 2 (Receiver)</span>  
 
 
 
-[Hackster.io Project Page](https://www.hackster.io/513083/automatic-shutting-system-66b8ab)  
+[Hackster.io Project Page](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)  
 
 [LinkedIn Post by M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop)
 
