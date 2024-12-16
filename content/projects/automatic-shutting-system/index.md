@@ -51,10 +51,8 @@ This project aims to address the significant energy consumption of refrigerators
 {{< youtube NVHdf7NcfQY >}}
 
 ![featured.jpg](featured.jpg)  
-<span style="display: block; text-align: center; font-size: small;">Prototype</span>  
-
+<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Prototype</span>  
 ![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 1 (Transmitter)</span>  
-
 ![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 2 (Receiver)</span>  
 ![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Dashboard - Qubitro</span>  
 ![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 1 (Transmitter)</span>  
