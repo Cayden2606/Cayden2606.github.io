@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: projects
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
