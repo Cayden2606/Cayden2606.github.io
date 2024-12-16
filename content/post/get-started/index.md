@@ -1,6 +1,6 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: IoT Smart Bus Stop
+summary: An all in one dashboard x prototype smth smth
 date: 2023-10-27
 
 # Featured image
@@ -13,9 +13,9 @@ authors:
   - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - IoT 
+  - UI Design
+  - Prototype
 ---
 
 Welcome 👋
