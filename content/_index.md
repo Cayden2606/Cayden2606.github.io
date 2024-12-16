@@ -10,7 +10,6 @@ design:
 
 sections:
   - block: resume-biography-3
-    id: projects
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -65,7 +64,7 @@ sections:
   #   design:
   #     view: citation
   - block: collection
-    id: talks
+    id: projects
     content:
       title: My Projects 📚
       filters:
