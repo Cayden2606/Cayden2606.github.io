@@ -65,7 +65,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: GCE - Level
+  - area: GCE O-Level
     institution: Montfort Secondary School
     date_start: 2019-01-01
     date_end: 2022-11-30
@@ -185,5 +185,5 @@ awards:
 ## About Me
 
 Cayden Theseira is a fresh graduate from Nanyang Polytechnic, holding a diploma in Electronic and Computer Engineering. With a strong passion for software development and a focus on computer engineering, Cayden's interests span IoT applications, user experience design, and innovative solutions for sustainability.
-
-He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications.
+<!-- 
+He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications. -->
