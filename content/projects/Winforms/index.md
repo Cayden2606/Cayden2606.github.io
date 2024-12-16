@@ -1,6 +1,6 @@
 ---
-title: Automatic Shutting System
-summary: An efficient addon to pre-existing freezers in supermarkets, to reduce the cost of the freezers by automatically closing the doors.
+title: Winforms Application
+summary: An aesthetically pleasing and feature rich Windows Application.
 date: 2023-10-27
 
 # Featured image
@@ -13,8 +13,8 @@ authors:
   - Ted
 
 tags:
-  - IoT 
-  - Prototype
+  - Application
+  - Ui Design
 ---
 
 Welcome 👋

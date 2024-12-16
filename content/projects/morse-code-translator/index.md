@@ -1,6 +1,6 @@
 ---
-title: Automatic Shutting System
-summary: An efficient addon to pre-existing freezers in supermarkets, to reduce the cost of the freezers by automatically closing the doors.
+title: Morse Code Translator
+summary: A visually pleasing and effective Morse Code Translator using an Arduino Uno.
 date: 2023-10-27
 
 # Featured image
@@ -13,7 +13,6 @@ authors:
   - Ted
 
 tags:
-  - IoT 
   - Prototype
 ---
 
