@@ -1,7 +1,7 @@
 ---
 title: Automatic Shutting System
 summary: An efficient addon to pre-existing freezers in supermarkets, to reduce the cost of the freezers by automatically closing the doors.
-date: 2024-2-16
+date: 2024-02-16
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
