@@ -1,7 +1,7 @@
 ---
 title: IoT Smart Bus Stop
 summary: An all in one dashboard x prototype smth smth
-date: 2023-08-07
+date: 2024-08-07
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,77 +10,119 @@ image:
 
 authors:
   - admin
-  - Ted
+  - Rachel Lee
+  - Xing Lu
 
 tags:
   - IoT 
   - UI Design
   - Prototype
+  - Sustainability
+  - Smart City
 ---
 
-Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+<a href="https://github.com/Cayden2606/Smart-Bus-Stop" style="display: flex; align-items: center;" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 30px; margin-right: 10px;">
+  GitHub Repository for Smart Bus Stop
+</a>
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## Story
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+Public transportation is the backbone of sustainable cities. However, commuters often face challenges such as unpredictable bus schedules, lack of shelter during extreme weather, and minimal access to real-time updates. The **Smart Bus Stop** addresses these issues by combining IoT, renewable energy, and user-centric design to revolutionize public transit infrastructure.
 
-### Get Started
+### Objectives
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- To provide commuters with real-time bus tracking and arrival information.
+- To integrate solar energy for powering displays and other utilities.
+- To improve the user experience through interactive screens and weatherproof designs.
 
-## Crowd-funded open-source software
+### Research
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+- Studies show that 75% of commuters prefer real-time transit updates to plan their journeys better.
+- Solar-powered systems reduce carbon emissions and operational costs for public infrastructure.
+- Incorporating accessibility features ensures inclusivity for all demographics, including differently-abled users.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+### Project
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+<div style="text-align: center;">
+  <img src="Media/busprototype.jpeg" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop/div>
+</div>
 
-## Ecosystem
+- **Real-Time Tracking**  
+  Displaying live bus locations and expected arrival times using GPS and cloud integration.
+  
+- **Solar Power Integration**  
+  Solar panels to power the bus stop’s lighting, displays, and charging ports for sustainability.
+  
+- **Interactive Displays**  
+  Touchscreen interfaces to provide information on routes, nearby services, and emergency contacts.
+  
+- **Passenger Comfort**  
+  Weatherproof shelters with ergonomic seating and USB charging ports for convenience.
+  
+- **Accessibility Features**  
+  Voice-enabled announcements and braille support for visually impaired users.
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+### Video Demonstration  
+{{< youtube nPJaNwRcq4I >}}
 
-## Inspiration
+### Behind The Scenes
+#### Planning
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
+  </div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="busmodel.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">Design Overview</div>
+  </div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="BBBWs.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless with clicks</div>
+  </div>
+</div>
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
 
-## Features
+Lighting System
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+Uses a Modified LED Strip and a simple BJT amplifer circuit and uses reused light filter from an old Huawei Nova 3i Screen
+Uses PWM to adjust light value.
 
-## Themes
+ChatGPT, ADD the html,css for 3 images and 2 gifs under here
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+Wiring 
 
-## License
+ChatGPT, add the html, css for 1 image 
+add some description
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="featured.jpg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="solar-panel.jpg" alt="Solar Panels in Action" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Solar Panels in Action</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="display.jpg" alt="Interactive Display Panel" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Interactive Display Panel</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="tracking.jpg" alt="Live Bus Tracking Interface" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Live Bus Tracking Interface</div>
+  </div>
+</div> -->
