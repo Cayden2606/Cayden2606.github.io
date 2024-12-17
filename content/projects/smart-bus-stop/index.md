@@ -51,6 +51,7 @@ Public transportation is the backbone of sustainable cities. However, commuters 
   <img src="Media/busprototype.jpeg" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
   <div style="font-size: small; margin-top: -10px;">Smart Bus Stop/div>
 </div>
+<div style="text-align: center;"></div>
 
 - **Real-Time Tracking**  
   Displaying live bus locations and expected arrival times using GPS and cloud integration.
@@ -92,7 +93,7 @@ Public transportation is the backbone of sustainable cities. However, commuters 
     <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless with clicks</div>
   </div>
 </div>
-
+<div style="text-align: center;"></div>
 
 #### Lighting System
 
@@ -122,14 +123,13 @@ Uses PWM to adjust light value.
     </video>
     <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
   </div>
-  
+<div style="text-align: center;"></div>
+
 #### Wiring  
 
 The wiring system integrates the LED strip, PWM controller, and BJT amplifier, ensuring seamless operation. Below is the diagram illustrating the connections and components involved.  
-
 <div style="text-align: center; margin-top: 20px;">
   <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-  <div style="font-size: small; margin-top: 10px; color: #555;">Wiring</div>
 </div>
 
 
