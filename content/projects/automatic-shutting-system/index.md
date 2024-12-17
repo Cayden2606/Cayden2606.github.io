@@ -21,9 +21,19 @@ tags:
 
 
 {{< toc mobile_only=true is_open=true >}}
-[![Hackster.io Logo](https://www.hackster.io/assets/hackster_logo_squared.png)](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)
+<!-- [![Hackster.io Logo](https://www.hackster.io/assets/hackster_logo_squared.png)](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)
 
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055)](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055)](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop) -->
+<a href="https://www.hackster.io/515083/automatic-shutting-system-66b8ab" style="display: flex; align-items: center;">
+  <img src="https://www.hackster.io/assets/hackster_logo_squared.png" alt="Hackster.io Logo" style="width: 30px; margin-right: 10px;">
+  Hackster.io
+</a>
+
+<a href="https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop" style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" alt="LinkedIn Logo" style="width: 30px; margin-right: 10px;">
+  LinkedIn
+</a>
+
 
 ## Story
 
