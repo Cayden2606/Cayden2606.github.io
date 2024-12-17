@@ -94,35 +94,43 @@ Public transportation is the backbone of sustainable cities. However, commuters 
 </div>
 
 
-Lighting System
+#### Lighting System
 
 Uses a Modified LED Strip and a simple BJT amplifer circuit and uses reused light filter from an old Huawei Nova 3i Screen
 Uses PWM to adjust light value.
 
-ChatGPT, ADD the html,css for 3 images and 2 gifs under here
-
-
-Wiring 
-
-ChatGPT, add the html, css for 1 image 
-add some description
-
-
-<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center;">
-    <img src="featured.jpg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
+    <img src="Media/Lighting.jpeg" alt="Modified LED Strip" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Modified LED Strip</div>
   </div>
   <div style="text-align: center;">
-    <img src="solar-panel.jpg" alt="Solar Panels in Action" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Solar Panels in Action</div>
+    <img src="Media/Circuit.jpg" alt="BJT Amplifier Circuit" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">BJT Amplifier Circuit</div>
   </div>
   <div style="text-align: center;">
-    <img src="display.jpg" alt="Interactive Display Panel" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Interactive Display Panel</div>
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/PWM.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
   </div>
-  <div style="text-align: center;">
-    <img src="tracking.jpg" alt="Live Bus Tracking Interface" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Live Bus Tracking Interface</div>
+    <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/PWM2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
   </div>
-</div> -->
+  
+#### Wiring  
+
+The wiring system integrates the LED strip, PWM controller, and BJT amplifier, ensuring seamless operation. Below is the diagram illustrating the connections and components involved.  
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+  <div style="font-size: small; margin-top: 10px; color: #555;">Wiring</div>
+</div>
+
+
+
