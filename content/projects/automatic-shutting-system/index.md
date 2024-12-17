@@ -21,9 +21,9 @@ tags:
 
 
 {{< toc mobile_only=true is_open=true >}}
-[Hackster.io Project Page](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)  
+[![Hackster.io Logo](https://www.hackster.io/assets/hackster_logo_squared.png)](https://www.hackster.io/515083/automatic-shutting-system-66b8ab)
 
-[LinkedIn Post by M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055)](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop)
 
 ## Story
 
@@ -36,13 +36,13 @@ This project aims to address the significant energy consumption of refrigerators
 - To develop a solution to reduce the power consumption of refrigerators and freezers in retail, supermarkets.
 - Able to be modular to fit onto existing refrigeration units without requiring extensive modifications, minimising installation time and cost.
 
-### Research:
+### Research
 
 - Supermarket refrigeration is a major contributor to overall energy usage, and reducing its consumption can significantly impact energy efficiency.
 - Understanding why shoppers leave fridge and freezer doors open can help design effective solutions to address this behaviour.
 - Implementing sensors to detect door status and temperature can provide real-time data to optimise energy usage.
 
-### Project:
+### Project
 
 - Door Detection System - Utilising a TOF sensor to detect if a refrigerator or freezer door is left open and initiating alerts accordingly.
 - Human Presence detector - Using a PIR sensor to sense if anyone is at the refrigerator door.
@@ -53,7 +53,7 @@ This project aims to address the significant energy consumption of refrigerators
 ### Video Demonstration 
 {{< youtube NVHdf7NcfQY >}}
 
-### Pictures:
+### Pictures
 ![featured.jpg](featured.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Prototype</span>![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 1 (Transmitter)</span>![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 2 (Receiver)</span>![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Dashboard - Qubitro</span>![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 1 (Transmitter)</span>![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 2 (Receiver)</span>![flowchart1.png](flowchart1.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 1 (Transmitter)</span>![flowchart2.png](flowchart2.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 2 (Receiver)</span>  
 
 
