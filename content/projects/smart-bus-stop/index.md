@@ -74,19 +74,19 @@ Public transportation is the backbone of sustainable cities. However, commuters 
 #### Planning
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
-    <img src="tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
+    <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
   </div>
   <div style="text-align: center;">
     <video autoplay loop muted style="max-width: 100%; height: auto;">
-      <source src="busmodel.mp4" type="video/mp4">
+      <source src="Media/busmodel.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: small; margin-top: -10px;">Design Overview</div>
   </div>
   <div style="text-align: center;">
     <video autoplay loop muted style="max-width: 100%; height: auto;">
-      <source src="BBBWs.mp4" type="video/mp4">
+      <source src="Media/BBBWs.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless with clicks</div>
