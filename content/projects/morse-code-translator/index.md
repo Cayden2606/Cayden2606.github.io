@@ -89,7 +89,7 @@ The goal of my project was to design a device that:
   <img src="Media/Planning.jpg" alt="Early pic" style="max-width: 100%; height: auto;">
 </div>
 <div style="font-size: small; margin-top: -10px; text-align: center;">Early Picture</div>
-
+<hr>
 
 ## Final Product
 
