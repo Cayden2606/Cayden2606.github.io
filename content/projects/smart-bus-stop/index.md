@@ -1,6 +1,6 @@
 ---
 title: IoT Smart Bus Stop
-summary: An all in one dashboard x prototype smth smth
+summary: An innovative dashboard and prototype aimed at redefining bus stop functionality through IoT and sustainability.
 date: 2024-08-07
 
 # Featured image
@@ -31,47 +31,39 @@ tags:
 
 ## Story
 
-Public transportation is the backbone of sustainable cities. However, commuters often face challenges such as unpredictable bus schedules, lack of shelter during extreme weather, and minimal access to real-time updates. The **Smart Bus Stop** addresses these issues by combining IoT, renewable energy, and user-centric design to revolutionize public transit infrastructure.
+Public transportation is vital to sustainable cities but faces challenges like unreliable schedules, weather exposure, and limited real-time updates. The **Smart Bus Stop** combines IoT, renewable energy, and user-focused design to overcome these issues, modernizing transit infrastructure.
 
 ### Objectives
 
-- To provide commuters with real-time bus tracking and arrival information.
-- To integrate solar energy for powering displays and other utilities.
-- To improve the user experience through interactive screens and weatherproof designs.
+- **Real-Time Information**: Equip commuters with live bus tracking and arrival updates.  
+- **Sustainability**: Use solar energy for powering lights, displays, and utilities.  
+- **Enhanced User Experience**: Include interactive, weatherproof screens and ergonomic seating. 
 
-### Research
+### Research Insights
 
-- Studies show that 75% of commuters prefer real-time transit updates to plan their journeys better.
-- Solar-powered systems reduce carbon emissions and operational costs for public infrastructure.
-- Incorporating accessibility features ensures inclusivity for all demographics, including differently-abled users.
+- **Real-Time Updates**: 75% of commuters prefer live transit data for better journey planning.  
+- **Eco-Friendly Design**: Solar-powered systems reduce carbon footprints and costs.  
+- **Accessibility**: Voice support and braille features ensure inclusivity for all users.
 
-### Project
+### Project Overview
 
 <div style="text-align: center;">
   <img src="Media/busprototype.jpeg" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop</div>
+  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
 </div>
 
-- **Real-Time Tracking**  
-  Displaying live bus locations and expected arrival times using GPS and cloud integration.
-  
-- **Solar Power Integration**  
-  Solar panels to power the bus stop’s lighting, displays, and charging ports for sustainability.
-  
-- **Interactive Displays**  
-  Touchscreen interfaces to provide information on routes, nearby services, and emergency contacts.
-  
-- **Passenger Comfort**  
-  Weatherproof shelters with ergonomic seating and USB charging ports for convenience.
-  
-- **Accessibility Features**  
-  Voice-enabled announcements and braille support for visually impaired users.
+### Key Features:
+
+1. **Real-Time Tracking**: Displays bus locations and arrival times using GPS and cloud integration.  
+2. **Solar Power**: Provides sustainable energy for lighting, displays, and charging ports.  
+3. **Interactive Displays**: Offers route information, nearby services, and emergency contacts.  
+4. **Passenger Comfort**: Includes weatherproof shelters, ergonomic seating, and USB charging.  
+5. **Accessibility**: Voice-enabled announcements and braille support for differently-abled users.  
 
 ### Video Demonstration  
 {{< youtube nPJaNwRcq4I >}}
 
-### Behind The Scenes
-#### Planning
+### Planning Stages
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
     <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
@@ -94,10 +86,10 @@ Public transportation is the backbone of sustainable cities. However, commuters 
 </div>
 
 
-#### Lighting System
+### Lighting System
 
-Uses a Modified LED Strip and a simple BJT amplifer circuit and uses reused light filter from an old Huawei Nova 3i Screen
-Uses PWM to adjust light value.
+- **Modified LED Strip**: Uses recycled light filters from a Huawei Nova 3i screen.  
+- **PWM Control**: Adjusts brightness dynamically via a BJT amplifier circuit.  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center;">
@@ -123,11 +115,11 @@ Uses PWM to adjust light value.
     <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
   </div>
   
-#### Wiring  
+### Wiring and System Integration
 
-The wiring system integrates the LED strip, PWM controller, and BJT amplifier, ensuring seamless operation. Below is the diagram illustrating the connections and components involved.  
+The wiring system connects the LED strip, PWM controller, and BJT amplifier for seamless operation.  
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center;">
   <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
 </div>
 
