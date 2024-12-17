@@ -1,7 +1,7 @@
 ---
 title: IoT Smart Bus Stop
 summary: An all in one dashboard x prototype smth smth
-date: 2023-10-27
+date: 2023-8-7
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
