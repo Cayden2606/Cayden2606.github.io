@@ -1,7 +1,7 @@
 ---
 title: Morse Code Translator
-summary: A visually pleasing and effective Morse Code Translator using an Arduino Uno.
-date: 2023-10-27
+summary: A functional Morse Code Translator project created for my Intro to Engineering presentation, using Arduino and Python.  
+date: 2023-06-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,75 +10,109 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Prototype
+  - Engineering  
+  - Prototype  
+  - Arduino  
 ---
 
-Welcome 👋
+{{< toc mobile_only=true is_open=true >}}  
 
-{{< toc mobile_only=true is_open=true >}}
+<a href="https://github.com/Cayden2606/Morse-Code-Translator" style="display: flex; align-items: center;" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 30px; margin-right: 10px;">
+  GitHub Repository for Morse Code Translator
+</a>
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+This project is an interactive Morse Code Translator that:
+1. Lets users input Morse Code using push buttons.
+2. Outputs the corresponding text and plays light and sound signals.
+3. Utilizes servo motors to indicate letters visually.
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+This presentation covers:
+- Components used
+- Project story and background
+- Project objective
+- System design: sketch, flowchart, and code
+- Final product demonstration
+- Challenges faced
 
-### Get Started
+---
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## Components
 
-## Crowd-funded open-source software
+Here are the main components used in my project:
+- 5 resistors
+- 4 push buttons
+- 7 servo motors
+- 1 LED
+- 1 buzzer
+- 1 breadboard
+- 1 Arduino
+- Various connecting wires
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+---
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+## Project Story and Background
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+The inspiration for this project came during a visit to the UK, where I explored a World War II museum. I was fascinated by an authentic Morse Code machine and wanted to recreate it with a modern twist. This project allowed me to combine my interest in historical devices with hands-on engineering skills.
 
-## Ecosystem
+---
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+## Objective
 
-## Inspiration
+The goal of my project was to design a device that:
+1. Allows users to input Morse Code via button presses.
+2. Translates the code into text.
+3. Provides output through light signals, buzzer sounds, and servo motor movements.
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+---
 
-## Features
+## Design and Implementation
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+### Sketch of the Morse Code Translator
+<div style="text-align: center;">
+  <img src="Media/sketch-MCT.jpeg" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+</div>
+<div style="font-size: small; margin-top: -10px;">Sketch of Morse Code Translator</div>
 
-## Themes
+---
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+## Final Product
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+After extensive testing and iterations, the Morse Code Translator successfully:
+- Converts user input into Morse Code or text.
+- Uses servo motors to visually represent letters.
+- Provides accurate light and sound feedback.
 
-## License
+### Operation:
+- **Short click**: Represents a dot (`.`).
+- **Long press**: Represents a dash (`-`).
+- **Space button**: Differentiates between letters and words.
+- **Delete button**: Corrects the last input.
+- **Translate button**: Finalizes and translates Morse Code.
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+---
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+## Challenges Faced
+
+1. **Troubleshooting the circuit**:
+   - Initial wiring issues caused incorrect signals.
+2. **Debugging code**:
+   - Logic errors in Python led to unexpected results.
+3. **Framework unfamiliarity**:
+   - Learning the AAD framework was a steep curve.
+4. **Servo motor calibration**:
+   - Fine-tuning was critical for accurate letter representation.
+
+---
+
+## Closing Remarks
+
+This project was a rewarding experience, allowing me to combine engineering principles with creativity. It provided insight into hardware-software integration and troubleshooting techniques.
+
+Thank you for exploring my project. Feel free to reach out with questions or feedback!
+
+---
