@@ -206,7 +206,7 @@ languages:
   #   summary: |
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+<!-- <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Awards</div>
   <div class="grid grid-cols-2 gap-4">
     <div class="flex flex-col items-center">
@@ -252,7 +252,7 @@ languages:
       <div class="text-sm text-gray-700 dark:text-gray-300">Mr. Eric Loh, Physics Teacher (Page 2)</div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 ## About Me
