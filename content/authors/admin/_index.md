@@ -156,10 +156,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      - name: "custom/gaming"
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera
+        icon: "custom/gaming"
       - name: Reading
         description: ''
         percent: 80
