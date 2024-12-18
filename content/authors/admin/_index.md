@@ -119,15 +119,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: py
+        icon: assets/media/icons/py.svg
       - name: JavaScript
         description: ''
         percent: 75
-        icon: js
+        icon: assets/media/icons/js.svg
       - name: HTML/CSS
         description: ''
         percent: 70
-        icon: html
+        icon: assets/media/icons/html.svg
       - name: C#
         description: ''
         percent: 80
@@ -135,7 +135,7 @@ skills:
       - name: PCB Design (Autodesk Eagle)
         description: ''
         percent: 60
-        icon: eagle
+        icon: assets/media/icons/eagle
       - name: SQL
         description: ''
         percent: 40
