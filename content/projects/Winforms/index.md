@@ -135,3 +135,147 @@ This project enhances the functionality of a calculator application built using 
 
 ### Usage
 Enjoy a feature-packed calculator for all your mathematical needs. Switch between Standard and Scientific modes with ease, customize the sound settings, and use the enhanced interaction features for a smooth user experience.
+
+
+
+<div style="font-family: Arial, sans-serif; margin: 20px;">
+
+<h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1;">Overview</h2>
+<p>This project utilizes <strong>WinForms</strong> in .NET Framework 4.8 to create visually appealing and functional applications. Below are two featured applications:</p>
+
+<div style="padding: 15px; border: 1px solid #bdc3c7; margin-bottom: 20px; border-radius: 8px;">
+<h2 style="color: #3498db;">Doodle Paint Enhancement</h2>
+
+<h3 style="color: #2c3e50;">Overview</h3>
+<p>Doodle Paint is a feature-rich painting and graphics application built using WinForms and .NET Framework 4.8. This project enhances the existing application with a range of new functionalities, focusing on drawing, text handling, color customization, and user interaction.</p>
+
+<h3 style="color: #2c3e50;">Features</h3>
+
+<h4 style="color: #1abc9c;">A. Drawing and Graphics</h4>
+<ul>
+  <li><strong>Custom Brushes:</strong> Includes Charcoal and Watercolor brushes.</li>
+  <li><strong>Brush Size Control:</strong> Adjustable via a trackbar and text box, with input validation to prevent crashes from invalid sizes.</li>
+  <li><strong>Independent Brush Sizes:</strong> Each brush type retains its own size settings.</li>
+  <li><strong>Shape Tools:</strong> Create shapes like lines, circles, and rectangles with adjustable width and size.</li>
+  <li><strong>Emoji Tools:</strong> Add emojis like Happy and Sad with customizable sizes.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">B. Text Handling</h4>
+<ul>
+  <li><strong>Font and Size Selection:</strong> Combo boxes to choose fonts and sizes.</li>
+  <li><strong>Custom Text on Canvas:</strong> Add styled text with options like Bold, Italic, Underline, and Strikethrough.</li>
+  <li><strong>Full Font Access:</strong> Utilize all fonts available on the computer.</li>
+  <li><strong>Input Validation:</strong> Prevent crashes from invalid size or font selections.</li>
+  <li><strong>Text Color Selection:</strong> Choose from predefined colors or use a color dialog for customization.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">C. Color and Fill</h4>
+<ul>
+  <li><strong>Color Picker Tool:</strong> Select colors with ease.</li>
+  <li><strong>Fill Tool:</strong> Implemented using a flood fill algorithm.</li>
+  <li><strong>Custom Colors:</strong> Choose colors via a color dialog or predefined palettes.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">D. Filters and Effects</h4>
+<ul>
+  <li><strong>Image Filters:</strong> Apply effects like Grayscale, Luminosity, and custom transformations.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">E. UI Components</h4>
+<ul>
+  <li><strong>Dynamic Labels:</strong> Display canvas size and cursor position in real-time.</li>
+  <li><strong>Tool Tips:</strong> Hovering over clickable elements provides helpful tooltips.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">F. Event Handling</h4>
+<ul>
+  <li><strong>Keyboard Shortcuts:</strong> Increase efficiency with shortcuts for various actions.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">G. Miscellaneous</h4>
+<ul>
+  <li><strong>Button Sounds:</strong> Add auditory feedback for button clicks.</li>
+</ul>
+
+<h3 style="color: #2c3e50;">Installation</h3>
+<ol>
+  <li>Clone this repository:
+    <pre style="background: #ecf0f1; padding: 10px; border-radius: 5px;">git clone https://github.com/your-username/doodle-paint-enhancement.git</pre>
+  </li>
+  <li>Open the project in Visual Studio.</li>
+  <li>Build the solution using the Release configuration.</li>
+  <li>Run the application by executing the compiled <code>.exe</code> file located in the <code>bin/Release</code> folder.</li>
+</ol>
+
+<h3 style="color: #2c3e50;">Usage</h3>
+<p>Explore the intuitive interface to create stunning artwork! Access advanced tools and features to enhance your creative workflow.</p>
+</div>
+
+<div style="padding: 15px; border: 1px solid #bdc3c7; margin-bottom: 20px; border-radius: 8px;">
+<h2 style="color: #3498db;">Calculator Enhancement</h2>
+
+<h3 style="color: #2c3e50;">Overview</h3>
+<p>This project enhances the functionality of a calculator application built using WinForms and .NET Framework 4.8. The enhancements include a refined user interface, audio features, improved interaction, and added functionality for both standard and scientific calculations.</p>
+
+<h3 style="color: #2c3e50;">Features</h3>
+
+<h4 style="color: #1abc9c;">A. User Interface</h4>
+<ul>
+  <li><strong>Compact Design:</strong> Streamlined layout with well-placed buttons.</li>
+  <li><strong>Hamburger Menu:</strong> Access additional options via a collapsible panel.</li>
+  <li><strong>Mode Switching:</strong> Toggle between Standard and Scientific interfaces.</li>
+  <li><strong>Color Scheme:</strong> Carefully selected colours for better usability.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">B. Audio Enhancement</h4>
+<ul>
+  <li><strong>Button Sounds:</strong> Provides auditory feedback for button clicks (both on-screen and keyboard).</li>
+  <li><strong>Result Announcement:</strong> Announces the calculation result audibly.</li>
+  <li><strong>Independent Controls:</strong> Enable or disable speech and button sounds independently via the panel.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">C. Interaction Enhancement</h4>
+<ul>
+  <li><strong>Copy Button:</strong> Fully functional copy button.</li>
+  <li><strong>Status Indicators:</strong> Display the status of:</li>
+  <ul>
+    <li>Degree/Radian (Deg/Rad)</li>
+    <li>Standard/Scientific Mode (STD/SCI)</li>
+    <li>Button and Speaker sounds (mute/unmute)</li>
+  </ul>
+</ul>
+
+<h4 style="color: #1abc9c;">D. Functional Buttons</h4>
+<ul>
+  <li><strong>Standard and Scientific Calculations:</strong> Includes basic and advanced functions.</li>
+  <li><strong>Shift Button:</strong> Unlocks secondary functions.</li>
+  <li><strong>Degree/Radian Toggle:</strong> Switch between angle measurement modes.</li>
+  <li><strong>ANS Button:</strong> Retrieve the result of the previous calculation.</li>
+  <li><strong>Dynamic Panel:</strong> Adjusts button layout for Standard/Scientific modes.</li>
+  <li><strong>Keyboard Input:</strong> Accepts input from the physical keyboard.</li>
+</ul>
+
+<h4 style="color: #1abc9c;">E. Additional Features</h4>
+<ul>
+  <li><strong>Unary Operators:</strong> Added functions for inverse trigonometry, rounding, and x^y.</li>
+  <li><strong>Constants:</strong> Includes Pi (π) and Euler’s number (e).</li>
+  <li><strong>Dynamic Layout:</strong> Seamless transitions between Standard and Scientific modes.</li>
+  <li><strong>Boot-Up Sound Effect:</strong> Plays a sound during application startup.</li>
+  <li><strong>Error-Free Editing:</strong> Allows character deletion without breaking equation evaluation.</li>
+</ul>
+
+<h3 style="color: #2c3e50;">Installation</h3>
+<ol>
+  <li>Clone this repository:
+    <pre style="background: #ecf0f1; padding: 10px; border-radius: 5px;">git clone https://github.com/your-username/calculator-enhancement.git</pre>
+  </li>
+  <li>Open the project in Visual Studio.</li>
+  <li>Build the solution using the Release configuration.</li>
+  <li>Run the application by executing the compiled <code>.exe</code> file located in the <code>bin/Release</code> folder.</li>
+</ol>
+
+<h3 style="color: #2c3e50;">Usage</h3>
+<p>Enjoy a feature-packed calculator for all your mathematical needs. Switch between Standard and Scientific modes with ease, customize the sound settings, and use the enhanced interaction features for a smooth user experience.</p>
+</div>
+
+</div>
