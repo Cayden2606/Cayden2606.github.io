@@ -40,42 +40,42 @@ Doodle Paint is a feature-rich painting and graphics application built using Win
 
 ### Features
 
-#### A. Drawing and Graphics
+#### 1. Drawing and Graphics
 - **Custom Brushes**: Includes Charcoal and Watercolor brushes.
 - **Brush Size Control**: Adjustable via a trackbar and text box, with input validation to prevent crashes from invalid sizes.
 - **Independent Brush Sizes**: Each brush type retains its own size settings.
 - **Shape Tools**: Create shapes like lines, circles, and rectangles with adjustable width and size.
 - **Emoji Tools**: Add emojis like Happy and Sad with customizable sizes.
 
-#### B. Text Handling
+#### 2. Text Handling
 - **Font and Size Selection**: Combo boxes to choose fonts and sizes.
 - **Custom Text on Canvas**: Add styled text with options like Bold, Italic, Underline, and Strikethrough.
 - **Full Font Access**: Utilize all fonts available on the computer.
 - **Input Validation**: Prevent crashes from invalid size or font selections.
 - **Text Color Selection**: Choose from predefined colors or use a color dialog for customization.
 
-#### C. Color and Fill
+#### 3. Color and Fill
 - **Color Picker Tool**: Select colors with ease.
 - **Fill Tool**: Implemented using a flood fill algorithm.
 - **Custom Colors**: Choose colors via a color dialog or predefined palettes.
 
-#### D. Filters and Effects
+#### 4. Filters and Effects
 - **Image Filters**: Apply effects like Grayscale, Luminosity, and custom transformations.
 
-#### E. UI Components
+#### 5. UI Components
 - **Dynamic Labels**: Display canvas size and cursor position in real-time.
 - **Tool Tips**: Hovering over clickable elements provides helpful tooltips.
 
-#### F. Event Handling
+#### 6. Event Handling
 - **Keyboard Shortcuts**: Increase efficiency with shortcuts for various actions.
 
-#### G. Miscellaneous
+#### 7. Miscellaneous
 - **Button Sounds**: Add auditory feedback for button clicks.
 
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/doodle-paint-enhancement.git
+   git clone https://github.com/Cayden2606/Winforms-Doodle-App.git
    ```
 2. Open the project in Visual Studio.
 3. Build the solution using the Release configuration.
@@ -91,25 +91,25 @@ This project enhances the functionality of a calculator application built using 
 
 ### Features
 
-#### A. User Interface
+#### 1. User Interface
 - **Compact Design**: Streamlined layout with well-placed buttons.
 - **Hamburger Menu**: Access additional options via a collapsible panel.
 - **Mode Switching**: Toggle between Standard and Scientific interfaces.
 - **Color Scheme**: Carefully selected colours for better usability.
 
-#### B. Audio Enhancement
+#### 2. Audio Enhancement
 - **Button Sounds**: Provides auditory feedback for button clicks (both on-screen and keyboard).
 - **Result Announcement**: Announces the calculation result audibly.
 - **Independent Controls**: Enable or disable speech and button sounds independently via the panel.
 
-#### C. Interaction Enhancement
+#### 3. Interaction Enhancement
 - **Copy Button**: Fully functional copy button.
 - **Status Indicators**: Display the status of:
   - Degree/Radian (Deg/Rad)
   - Standard/Scientific Mode (STD/SCI)
   - Button and Speaker sounds (mute/unmute)
 
-#### D. Functional Buttons
+#### 4. Functional Buttons
 - **Standard and Scientific Calculations**: Includes basic and advanced functions.
 - **Shift Button**: Unlocks secondary functions.
 - **Degree/Radian Toggle**: Switch between angle measurement modes.
@@ -117,7 +117,7 @@ This project enhances the functionality of a calculator application built using 
 - **Dynamic Panel**: Adjusts button layout for Standard/Scientific modes.
 - **Keyboard Input**: Accepts input from the physical keyboard.
 
-#### E. Additional Features
+#### 5. Additional Features
 - **Unary Operators**: Added functions for inverse trigonometry, rounding, and x^y.
 - **Constants**: Includes Pi (π) and Euler’s number (e).
 - **Dynamic Layout**: Seamless transitions between Standard and Scientific modes.
@@ -127,7 +127,7 @@ This project enhances the functionality of a calculator application built using 
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/calculator-enhancement.git
+   git clone https://github.com/Cayden2606/Winforms-Calculator.git
    ```
 2. Open the project in Visual Studio.
 3. Build the solution using the Release configuration.
