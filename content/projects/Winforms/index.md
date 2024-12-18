@@ -1,7 +1,7 @@
 ---
 title: Winforms Application
 summary: An aesthetically pleasing and feature rich Windows Application.
-date: 2023-10-27
+date: 2024-07-04
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
