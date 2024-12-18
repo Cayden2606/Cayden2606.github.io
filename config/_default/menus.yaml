@@ -20,7 +20,7 @@ main:
     url: experience/
     weight: 20
   - name: Skillset
-    url: /#section-resume-skills
+    url: /experience/#section-resume-skills
     weight: 25
   - name: Projects
     url: projects/
