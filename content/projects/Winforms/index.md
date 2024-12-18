@@ -33,10 +33,12 @@ tags:
 
 This project utilizes WinForms in .NET Framework 4.8 to create visually appealing and functional applications. Below are two featured applications:
 
-## Doodle Paint Enhancement
+## Winforms Doodle Paint 
 
 ### Overview
 Doodle Paint is a feature-rich painting and graphics application built using WinForms and .NET Framework 4.8. This project enhances the existing application with a range of new functionalities, focusing on drawing, text handling, color customization, and user interaction.
+
+![Doodle](https://github.com/Cayden2606/Winforms-Doodle-App/raw/main/Paint.png)
 
 ### Features
 
@@ -84,10 +86,12 @@ Doodle Paint is a feature-rich painting and graphics application built using Win
 ### Usage
 Explore the intuitive interface to create stunning artwork! Access advanced tools and features to enhance your creative workflow.
 
-## Calculator Enhancement
+## Winform Calculator 
 
 ### Overview
 This project enhances the functionality of a calculator application built using WinForms and .NET Framework 4.8. The enhancements include a refined user interface, audio features, improved interaction, and added functionality for both standard and scientific calculations.
+
+![Calculator](https://github.com/Cayden2606/Winforms-Calculator/raw/master/Calculator.png)
 
 ### Features
 
