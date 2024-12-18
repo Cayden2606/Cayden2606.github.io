@@ -1,8 +1,8 @@
 ---
-title: "Awards"
+title: "Awards & Testimonials"
 url: "/awards"
 ---
-
+<hr>
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Awards</div>
   <div class="grid grid-cols-2 gap-4">
@@ -28,7 +28,7 @@ url: "/awards"
     </div>
   </div>
 </div>
-
+<br>
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Testimonial</div>
   <div class="grid grid-cols-2 gap-4">
