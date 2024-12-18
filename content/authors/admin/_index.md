@@ -118,19 +118,19 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: "custom/py"
       - name: JavaScript
         description: ''
-        percent: 75
+        percent: 60
         icon: "custom/js"
       - name: HTML/CSS
         description: ''
-        percent: 70
+        percent: 85
         icon: "custom/html"
       - name: C#
         description: ''
-        percent: 80
+        percent: 75
         icon: "custom/CS"
       - name: PCB Design (Autodesk Eagle)
         description: ''
