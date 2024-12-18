@@ -62,6 +62,7 @@ education:
       - Edusave Bursary Award: 2024
       - Specilaised in Computer Engineering
       - Student Mentor
+    icon: "custom/js"
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -158,11 +159,11 @@ skills:
         icon: camera
       - name: Gaming
         description: ''
-        percent: 80
+        percent: 60
         icon: "custom/gaming"
       - name: Reading
         description: ''
-        percent: 80
+        percent: 40
         icon: "custom/book"
       - name: Drawing
         description: ''
