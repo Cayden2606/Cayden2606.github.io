@@ -156,6 +156,18 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: "custom/gaming"
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: "custom/book"
+      - name: Drawing
+        description: ''
+        percent: 80
+        icon: "custom/drawing"
 
 languages:
   - name: English
