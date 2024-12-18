@@ -62,7 +62,6 @@ education:
       - Edusave Bursary Award: 2024
       - Specilaised in Computer Engineering
       - Student Mentor
-    icon: "custom/js"
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
