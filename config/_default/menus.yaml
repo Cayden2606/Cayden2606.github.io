@@ -22,6 +22,9 @@ main:
   - name: Skillset
     url: /experience/#section-resume-skills
     weight: 25
+  - name: Awards
+    url: /experience/#section-resume-awards
+    weight: 26
   - name: Projects
     url: projects/
     weight: 30
