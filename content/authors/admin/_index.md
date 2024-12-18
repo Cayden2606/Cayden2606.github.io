@@ -131,7 +131,7 @@ skills:
       - name: C#
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: "custom/CS"
       - name: PCB Design (Autodesk Eagle)
         description: ''
         percent: 60
@@ -139,7 +139,7 @@ skills:
       - name: SQL
         description: ''
         percent: 40
-        icon: "custom/CS"
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
