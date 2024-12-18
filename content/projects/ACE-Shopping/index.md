@@ -33,19 +33,35 @@ The ACE Shopping program simulates an online shopping platform designed to provi
 <hr>
 
 ### Homepage
-![Homepage](./featured.png)
+<div style="text-align: center;">
+  <img src="featured.png" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Homepage UI</div>
+</div>
 
 ### Cart  
-![Cart](./Cart.png)
+<div style="text-align: center;">
+  <img src="Cart.png" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Cart UI</div>
+</div>
 
 ### Sorting Options
-![Sorting Options](./Sorting.png)
+<div style="text-align: center;">
+  <img src="Sorting.png" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Sorting UI</div>
+</div>
+
 
 ### Lucky Spin Feature 
-![Lucky Spin](./Gambling.png)
+<div style="text-align: center;">
+  <img src="Gambling.png" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Gambling UI</div>
+</div>
 
 ### Payment Page
-![Payment Page](./Payment.png)
+<div style="text-align: center;">
+  <img src="Payment.png" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Payment UI</div>
+</div>
 
 ---
 
