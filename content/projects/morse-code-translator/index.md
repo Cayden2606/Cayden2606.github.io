@@ -74,7 +74,7 @@ The goal of my project was to design a device that:
 
 ### Sketch of the Morse Code Translator
 <div style="text-align: center;">
-  <img src="Media/sketch-MCT.jpeg" alt="Sketch" style="max-width: 100%; height: auto;">
+  <img src="Media/Arduino.png" alt="Sketch" style="max-width: 100%; height: auto;">
 </div>
 <div style="font-size: small; margin-top: -10px; text-align: center;">Sketch of Morse Code Translator</div>
 
