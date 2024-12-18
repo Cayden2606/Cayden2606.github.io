@@ -1,40 +1,9 @@
 ---
-title: 'Experience'
-date: 2023-10-24
-type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: true
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
-  # - block: resume-awards
-  #   content:
-  #     title: Awards
-  #     username: admin
-
+title: "Awards"
+url: "/awards"
 ---
-<!-- <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Awards</div>
   <div class="grid grid-cols-2 gap-4">
     <div class="flex flex-col items-center">
@@ -80,4 +49,4 @@ sections:
       <div class="text-sm text-gray-700 dark:text-gray-300">Mr. Eric Loh, Physics Teacher (Page 2)</div>
     </div>
   </div>
-</div> -->
+</div>
