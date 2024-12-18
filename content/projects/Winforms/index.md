@@ -10,76 +10,128 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
   - Application
   - Ui Design
 ---
 
-Welcome 👋
-
 {{< toc mobile_only=true is_open=true >}}
+
+<a href="https://github.com/Cayden2606/Winforms-Calculator" style="display: flex; align-items: center;" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 30px; margin-right: 10px;">
+  GitHub Repository for Winforms Calculator
+</a>
+
+<a href="https://github.com/Cayden2606/Winforms-Doodle-App" style="display: flex; align-items: center;" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 30px; margin-right: 10px;">
+  GitHub Repository for Winforms Doodle
+</a>
+
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+This project utilizes WinForms in .NET Framework 4.8 to create visually appealing and functional applications. Below are two featured applications:
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+## Doodle Paint Enhancement
 
-### Get Started
+### Overview
+Doodle Paint is a feature-rich painting and graphics application built using WinForms and .NET Framework 4.8. This project enhances the existing application with a range of new functionalities, focusing on drawing, text handling, color customization, and user interaction.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### Features
 
-## Crowd-funded open-source software
+#### A. Drawing and Graphics
+- **Custom Brushes**: Includes Charcoal and Watercolor brushes.
+- **Brush Size Control**: Adjustable via a trackbar and text box, with input validation to prevent crashes from invalid sizes.
+- **Independent Brush Sizes**: Each brush type retains its own size settings.
+- **Shape Tools**: Create shapes like lines, circles, and rectangles with adjustable width and size.
+- **Emoji Tools**: Add emojis like Happy and Sad with customizable sizes.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+#### B. Text Handling
+- **Font and Size Selection**: Combo boxes to choose fonts and sizes.
+- **Custom Text on Canvas**: Add styled text with options like Bold, Italic, Underline, and Strikethrough.
+- **Full Font Access**: Utilize all fonts available on the computer.
+- **Input Validation**: Prevent crashes from invalid size or font selections.
+- **Text Color Selection**: Choose from predefined colors or use a color dialog for customization.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+#### C. Color and Fill
+- **Color Picker Tool**: Select colors with ease.
+- **Fill Tool**: Implemented using a flood fill algorithm.
+- **Custom Colors**: Choose colors via a color dialog or predefined palettes.
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+#### D. Filters and Effects
+- **Image Filters**: Apply effects like Grayscale, Luminosity, and custom transformations.
 
-## Ecosystem
+#### E. UI Components
+- **Dynamic Labels**: Display canvas size and cursor position in real-time.
+- **Tool Tips**: Hovering over clickable elements provides helpful tooltips.
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+#### F. Event Handling
+- **Keyboard Shortcuts**: Increase efficiency with shortcuts for various actions.
 
-## Inspiration
+#### G. Miscellaneous
+- **Button Sounds**: Add auditory feedback for button clicks.
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+### Installation
+1. Clone this repository:
+   ```
+   git clone https://github.com/your-username/doodle-paint-enhancement.git
+   ```
+2. Open the project in Visual Studio.
+3. Build the solution using the Release configuration.
+4. Run the application by executing the compiled `.exe` file located in the `bin/Release` folder.
 
-## Features
+### Usage
+Explore the intuitive interface to create stunning artwork! Access advanced tools and features to enhance your creative workflow.
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+## Calculator Enhancement
 
-## Themes
+### Overview
+This project enhances the functionality of a calculator application built using WinForms and .NET Framework 4.8. The enhancements include a refined user interface, audio features, improved interaction, and added functionality for both standard and scientific calculations.
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+### Features
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+#### A. User Interface
+- **Compact Design**: Streamlined layout with well-placed buttons.
+- **Hamburger Menu**: Access additional options via a collapsible panel.
+- **Mode Switching**: Toggle between Standard and Scientific interfaces.
+- **Color Scheme**: Carefully selected colours for better usability.
 
-## License
+#### B. Audio Enhancement
+- **Button Sounds**: Provides auditory feedback for button clicks (both on-screen and keyboard).
+- **Result Announcement**: Announces the calculation result audibly.
+- **Independent Controls**: Enable or disable speech and button sounds independently via the panel.
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+#### C. Interaction Enhancement
+- **Copy Button**: Fully functional copy button.
+- **Status Indicators**: Display the status of:
+  - Degree/Radian (Deg/Rad)
+  - Standard/Scientific Mode (STD/SCI)
+  - Button and Speaker sounds (mute/unmute)
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+#### D. Functional Buttons
+- **Standard and Scientific Calculations**: Includes basic and advanced functions.
+- **Shift Button**: Unlocks secondary functions.
+- **Degree/Radian Toggle**: Switch between angle measurement modes.
+- **ANS Button**: Retrieve the result of the previous calculation.
+- **Dynamic Panel**: Adjusts button layout for Standard/Scientific modes.
+- **Keyboard Input**: Accepts input from the physical keyboard.
+
+#### E. Additional Features
+- **Unary Operators**: Added functions for inverse trigonometry, rounding, and x^y.
+- **Constants**: Includes Pi (π) and Euler’s number (e).
+- **Dynamic Layout**: Seamless transitions between Standard and Scientific modes.
+- **Boot-Up Sound Effect**: Plays a sound during application startup.
+- **Error-Free Editing**: Allows character deletion without breaking equation evaluation.
+
+### Installation
+1. Clone this repository:
+   ```
+   git clone https://github.com/your-username/calculator-enhancement.git
+   ```
+2. Open the project in Visual Studio.
+3. Build the solution using the Release configuration.
+4. Run the application by executing the compiled `.exe` file located in the `bin/Release` folder.
+
+### Usage
+Enjoy a feature-packed calculator for all your mathematical needs. Switch between Standard and Scientific modes with ease, customize the sound settings, and use the enhanced interaction features for a smooth user experience.

@@ -1,7 +1,7 @@
 ---
 title: PCB Design Showcase
 summary: A detailed showcase of my 4-layer PCB design created using Eagle Autodesk. This project demonstrates the creation of schematics and board wiring for a functional electronics system.
-date: 2023-10-27
+date: 2024-11-21
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
