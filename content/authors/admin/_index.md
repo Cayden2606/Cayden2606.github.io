@@ -89,8 +89,8 @@ work:
     company_name: Micron Technology®
     company_url: 'https://sg.micron.com/'
     company_logo: 'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-1/462593766_1057475599713657_6028837455313199_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=w0535QuNLvgQ7kNvgEhafmr&_nc_zt=24&_nc_ht=scontent.fsin16-1.fna&_nc_gid=AL5QZiJ6lahlPXSCrSzZgqt&oh=00_AYD06EWbPGfYtUMnELMNE2EiUDqrQ1y9-HWWo8ywSzKfKw&oe=67659452'
-    date_start: 2025-05-01
-    date_end: '2025-10-31'
+    date_start: 2025-03-01
+    date_end: '2025-08-31'
     summary: |2-
       Responsibilities include:
         - Assisted in the development and testing of memory solutions for embedded systems
