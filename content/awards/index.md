@@ -2,6 +2,8 @@
 title: "Awards & Testimonials"
 date: 2024-12-19
 url: "/awards"
+authors:
+  - admin
 ---
 <hr style="margin-top: -30px; margin-bottom: 20px;">
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
