@@ -60,7 +60,7 @@ education:
       - Cumulative GPA: 3.99
       - Director’s List for 3 consecutive semesters
       - Edusave Bursary Award: 2024
-      - Specilaised in Computer Engineering
+      - Specialised in Computer Engineering
       - Student Mentor
     # button:
     #   text: 'Read Thesis'
