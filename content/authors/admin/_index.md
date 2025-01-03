@@ -52,7 +52,7 @@ interests:
   - Application Programming
 
 education:
-  - area: Diploma in Electronic and Computer Enginnering
+  - area: Diploma in Electronic and Computer Engineering
     institution: Nanyang Polytechnic
     date_start: 2023-04-01
     date_end: 2024-03-01
@@ -95,7 +95,7 @@ work:
       Responsibilities include:
         - Assisted in the development and testing of memory solutions for embedded systems
         - Designed automated scripts in Python to streamline performance diagnostics for NAND products
-        - Gained hands-on experience with PCB testing tools and debugging technique
+        - Gained hands-on experience with PCB testing tools and debugging techniques
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''

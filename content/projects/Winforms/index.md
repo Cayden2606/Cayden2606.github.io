@@ -1,6 +1,6 @@
 ---
 title: Winforms Application
-summary: An aesthetically pleasing and feature rich Windows Application.
+summary: An aesthetically pleasing and feature-rich Windows Application.
 date: 2024-07-04
 
 # Featured image
