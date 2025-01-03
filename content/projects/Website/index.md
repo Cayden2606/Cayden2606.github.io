@@ -23,7 +23,7 @@ tags:
   GitHub Repository for Scrambled Egg Rice Website Mockup 🍳🍚
 </a>
 
-<a href="https://cayden2606.github.io/ScrambledEggRice-Website-Mockup/order.html" style="display: flex; align-items: center;" target="_blank">
+<a href="https://cayden2606.github.io/ScrambledEggRice-Website-Mockup/index.html" style="display: flex; align-items: center;" target="_blank">
   <img src="egg.png" alt="egg" style="width: 30px; margin-right: 10px;">
   Live Website Preview 🍳🍚
 </a>
