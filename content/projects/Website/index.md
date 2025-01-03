@@ -23,13 +23,19 @@ tags:
   GitHub Repository for Scrambled Egg Rice Website Mockup 🍳🍚
 </a>
 
+<a href="https://cayden2606.github.io/ScrambledEggRice-Website-Mockup/order.html" style="display: flex; align-items: center;" target="_blank">
+  <img src="https://cdn.creazilla.com/emojis/57416/cooking-emoji-clipart-xl.png" alt="GitHub Logo" style="width: 30px; margin-right: 10px;">
+  Live Website Preview 🍳🍚
+</a>
+
+
 ---
 
 ## Overview
 
 The Scrambled Egg Rice  website mockup replicates a smooth online food ordering experience. It includes user-friendly navigation, product menus, ordering forms, and registration options. This project emphasizes responsive design and clean visuals to deliver a delightful browsing experience.
 
-Live Website Preview 🍳🍚: https://cayden2606.github.io/ScrambledEggRice-Website-Mockup/order.html
+
 ---
 
 ## Pages Preview
