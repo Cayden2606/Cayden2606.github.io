@@ -24,7 +24,7 @@ tags:
 </a>
 
 <a href="https://cayden2606.github.io/ScrambledEggRice-Website-Mockup/order.html" style="display: flex; align-items: center;" target="_blank">
-  <img src="https://cdn.creazilla.com/emojis/57416/cooking-emoji-clipart-xl.png" alt="egg" style="width: 30px; margin-right: 10px;">
+  <img src="egg.png" alt="egg" style="width: 30px; margin-right: 10px;">
   Live Website Preview 🍳🍚
 </a>
 
