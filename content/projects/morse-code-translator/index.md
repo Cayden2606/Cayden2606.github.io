@@ -1,6 +1,6 @@
 ---
 title: Morse Code Translator
-summary: A functional Morse Code Translator project created for my Intro to Engineering presentation, using Arduino and Python.  
+summary: A functional Morse Code Translator project created for my Introduction to Engineering presentation, developed using Arduino hardware and Python programming..  
 date: 2023-06-08
 
 # Featured image

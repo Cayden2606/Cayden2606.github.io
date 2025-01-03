@@ -1,6 +1,6 @@
 ---
 title: PCB Design Showcase
-summary: A detailed showcase of my 4-layer PCB design created using Eagle Autodesk. This project demonstrates the creation of schematics and board wiring for a functional electronics system.
+summary: A detailed showcase of my 4-layer PCB design created using Autodesk Eagle. This project demonstrates the creation of schematics and board wiring for a functional electronics system.
 date: 2024-11-21
 
 # Featured image
@@ -14,24 +14,24 @@ authors:
 tags:
   - PCB Design
   - Electronics
-  - Eagle Autodesk
+  - Autodesk Eagle
   - Hardware Projects
 ---
 
 {{< toc mobile_only=true is_open=true >}}
 
 ## Overview
-This project highlights the design and implementation of a **4-layer printed circuit board (PCB)** using **Eagle Autodesk** software. The PCB features carefully routed traces, components, and a clean schematic layout, showcasing both the functional design and aesthetic organization of a complex electronics project.
+This project highlights the design and implementation of a **4-layer printed circuit board (PCB)** using **Autodesk Eagle** software. The PCB features carefully routed traces, components, and a clean schematic layout, showcasing both the functional design and aesthetic organization of a complex electronics project.
 
 ## Key Features
 - **4-Layer Board:** Ensures efficient signal routing, improved noise management, and compact design.
-- **Eagle Autodesk:** Industry-standard software used for both schematic design and PCB layout.
+- **Autodesk Eagle:** Industry-standard software used for both schematic design and PCB layout.
 - **Component Integration:** Incorporates LEDs, ICs, capacitors, resistors, and other components for system functionality.
 - **Custom Traces:** Meticulously routed connections to optimize signal flow and performance.
 - **Functional Layout:** Combines power delivery, signal transmission, and programmable headers for flexibility.
 
 ## Tools and Software
-- **Eagle Autodesk**: Used for schematic capture and PCB layout.
+- **Autodesk Eagle**: Used for schematic capture and PCB layout.
 - **Soldering and Assembly Tools**: For populating and testing the physical board.
 
 ## The Design Process
@@ -75,6 +75,6 @@ The microcontroller unit (MCU) is the brain of the system, responsible for proce
 - **Layer Optimization**: Inner layers dedicated to power and ground helped minimize noise and improve efficiency.
 
 ## Conclusion
-This project demonstrates my expertise in PCB design using Eagle Autodesk. By combining technical precision with a clean layout, I achieved a functional and professional 4-layer PCB. The board is ready for testing and further integration into larger systems.
+This project demonstrates my expertise in PCB design using Autodesk Eagle. By combining technical precision with a clean layout, I achieved a functional and professional 4-layer PCB. The board is ready for testing and further integration into larger systems.
 
 ---

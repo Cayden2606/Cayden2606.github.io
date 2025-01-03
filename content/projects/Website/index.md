@@ -1,6 +1,6 @@
 ---
 title: Web Design
-summary: Welcome to my scrambled egg rice mockup website! This project is a front-end showcase for a modern and user-friendly online food ordering platform, highlighting our signature Hong Kong-style scrambled egg rice bowls.
+summary: Welcome to my scrambled egg rice mock-up website! This project is a front-end showcase for a modern and user-friendly online food ordering platform, highlighting our signature Hong Kong-style scrambled egg rice bowls.
 date: 2024-01-09
 
 # Featured image

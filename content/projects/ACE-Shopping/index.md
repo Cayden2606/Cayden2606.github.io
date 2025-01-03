@@ -1,6 +1,6 @@
 ---
 title: ACE Shopping
-summary: An Online Shopping Simulation with Tkinter
+summary: An online shopping simulation developed using Tkinter
 date: 2023-08-06
 
 # Featured image
@@ -14,7 +14,7 @@ authors:
 tags:
   - PCB Design
   - Electronics
-  - Eagle Autodesk
+  - Autodesk Eagle
   - Hardware Projects
 ---
 
