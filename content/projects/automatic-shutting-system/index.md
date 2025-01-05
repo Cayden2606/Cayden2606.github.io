@@ -102,17 +102,19 @@ This project aims to address the significant energy consumption of refrigerators
   </div>
 </div>
 
+<br>
 ### Technexus 2024
 
 This project was nominated to take part in Technexus 2024, an academic year project showcase event that brings students and industry professionals together to foster inspiration, creativity, and learning while recognizing outstanding student projects.
 
 We are proud to share that our project won 1st Place in the Year 1 Category, a testament to the hard work, innovation, and dedication of our team.
 
+{{< youtube dl89P1_xHiQ >}}
+
 Highlights of the Event:
 - Achievement: 1st Place in the Year 1 Category
 - Showcase: A platform to interact with industry leaders and peers.
 
-{{< youtube dl89P1_xHiQ >}}
 
 
 

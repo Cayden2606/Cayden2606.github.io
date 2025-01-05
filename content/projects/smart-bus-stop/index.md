@@ -63,6 +63,14 @@ Public transportation is vital to sustainable cities but faces challenges like u
 ## Video Demonstration  
 {{< youtube nPJaNwRcq4I >}}
 
+## Presentation Slides
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Poster
+<div style="text-align: center;">
+  <img src="poster.png" alt="poster" style="max-width: 100%; height: auto; padding: 10px;">
+</div>
+
 ## Planning Stages
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
