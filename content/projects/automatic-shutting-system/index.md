@@ -33,8 +33,7 @@ tags:
   M5Stack LinkedIn Recognition to A.S.S
 </a>
 
-
-## Story
+### Story
 
 Supermarket fridges consume enough electricity to power 800, 000 homes. A study by the Department of Environment, Food, and Rural Affairs found that the entire retail food sector uses around 3% of the UK's annual energy output. Refrigeration accounts for 50-60% of the electricity consumed in a supermarket. In food and grocery stores, refrigeration is the largest consumer of energy, operating non-stop and responsible for around half of the store’s total energy consumption.
 
@@ -61,6 +60,10 @@ This project aims to address the significant energy consumption of refrigerators
 
 ### Video Demonstration 
 {{< youtube NVHdf7NcfQY >}}
+
+### Poster
+<iframe src="EEPY_A2.pdf" width="100%" height="500px" style="border: none;"></iframe>
+
 
 ### Pictures
 <!-- ![featured.jpg](featured.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Prototype</span>![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 1 (Transmitter)</span>![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 2 (Receiver)</span>![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Dashboard - Qubitro</span>![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 1 (Transmitter)</span>![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 2 (Receiver)</span>![flowchart1.png](flowchart1.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 1 (Transmitter)</span>![flowchart2.png](flowchart2.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 2 (Receiver)</span>   -->
@@ -99,10 +102,17 @@ This project aims to address the significant energy consumption of refrigerators
   </div>
 </div>
 
+### Technexus 2024
 
+This project was nominated to take part in Technexus 2024, an academic year project showcase event that brings students and industry professionals together to foster inspiration, creativity, and learning while recognizing outstanding student projects.
 
+We are proud to share that our project won 1st Place in the Year 1 Category, a testament to the hard work, innovation, and dedication of our team.
 
+Highlights of the Event:
+- Achievement: 1st Place in the Year 1 Category
+- Showcase: A platform to interact with industry leaders and peers.
 
+{{< youtube dl89P1_xHiQ >}}
 
 
 
