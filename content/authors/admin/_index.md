@@ -160,13 +160,13 @@ skills:
         description: ''
         percent: 60
         icon: "custom/gaming"
-      - name: Reading
+      - name: Tech Tinkering
         description: ''
-        percent: 40
-        icon: "custom/book"
+        percent: 85
+        icon: "custom/tech"
       - name: Drawing
         description: ''
-        percent: 80
+        percent: 75
         icon: "custom/drawing"
 
 languages:
