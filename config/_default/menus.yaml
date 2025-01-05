@@ -19,6 +19,9 @@ main:
   - name: Experience
     url: experience/
     weight: 20
+  - name: Volunteering
+    url: volunteering/
+    weight: 21
   - name: Skillset
     url: /experience/#section-resume-skills
     weight: 25
