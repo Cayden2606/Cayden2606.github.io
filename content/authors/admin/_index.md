@@ -37,10 +37,13 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Cayden2606
+    label: Github me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/cayden-theseira/
+    label: Find me on LinkedIn
   - icon: 'phone'
     url: 'tel:6591877075'
+    label: Call me at +65 9187 7075
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
