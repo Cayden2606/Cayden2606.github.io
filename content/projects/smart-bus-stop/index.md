@@ -4,7 +4,7 @@ summary: An innovative dashboard and prototype aimed at redefining bus stop func
 date: 2024-08-07
 
 # Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# Place an image named `featured.jpg/png` in this page's folder and customise its options here.
 image:
   caption: 'Image credit: **Me**'
 
@@ -31,18 +31,18 @@ tags:
 
 <!-- ## Story
 
-Public transportation is vital to sustainable cities but faces challenges like unreliable schedules, weather exposure, and limited real-time updates. The **Smart Bus Stop** combines IoT, renewable energy, and user-focused design to overcome these issues, modernizing transit infrastructure.
+Public transportation is vital to sustainable cities but faces challenges like unreliable schedules, weather exposure, and limited real-time updates. The **Smart Bus Stop** combines IoT, renewable energy, and user-focused design to overcome these issues, modernising transit infrastructure.
 
 ## Objectives
 
-- **Real-Time Information**: Equip commuters with live bus tracking and arrival updates.  
-- **Sustainability**: Use solar energy for powering lights, displays, and utilities.  
-- **Enhanced User Experience**: Include interactive, weatherproof screens and ergonomic seating. 
+- **Real-Time Information**: Equip commuters with live bus tracking and arrival updates.
+- **Sustainability**: Use solar energy for powering lights, displays, and utilities.
+- **Enhanced User Experience**: Include interactive, weatherproof screens and ergonomic seating.
 
 ## Research Insights
 
-- **Real-Time Updates**: 75% of commuters prefer live transit data for better journey planning.  
-- **Eco-Friendly Design**: Solar-powered systems reduce carbon footprints and costs.  
+- **Real-Time Updates**: 75% of commuters prefer live transit data for better journey planning.
+- **Eco-Friendly Design**: Solar-powered systems reduce carbon footprints and costs.
 - **Accessibility**: Voice support and braille features ensure inclusivity for all users.
 
 ## Project Overview
@@ -54,11 +54,11 @@ Public transportation is vital to sustainable cities but faces challenges like u
 
 ## Key Features:
 
-1. **Real-Time Tracking**: Displays bus locations and arrival times using GPS and cloud integration.  
-2. **Solar Power**: Provides sustainable energy for lighting, displays, and charging ports.  
-3. **Interactive Displays**: Offers route information, nearby services, and emergency contacts.  
-4. **Passenger Comfort**: Includes weatherproof shelters, ergonomic seating, and USB charging.  
-5. **Accessibility**: Voice-enabled announcements and braille support for differently-abled users.  
+1. **Real-Time Tracking**: Displays bus locations and arrival times using GPS and cloud integration.
+2. **Solar Power**: Provides sustainable energy for lighting, displays, and charging ports.
+3. **Interactive Displays**: Offers route information, nearby services, and emergency contacts.
+4. **Passenger Comfort**: Includes weatherproof shelters, ergonomic seating, and USB charging.
+5. **Accessibility**: Voice-enabled announcements and braille support for differently-abled users.
 
 ## Video Demonstration  
 {{< youtube nPJaNwRcq4I >}}
@@ -96,8 +96,8 @@ Public transportation is vital to sustainable cities but faces challenges like u
 
 ## Lighting System
 
-- **Modified LED Strip**: Uses recycled light filters from a Huawei Nova 3i screen.  
-- **PWM Control**: Adjusts brightness dynamically via a BJT amplifier circuit.  
+- **Modified LED Strip**: Uses recycled light filters from a Huawei Nova 3i screen.
+- **PWM Control**: Adjusts brightness dynamically via a BJT amplifier circuit.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center;">
@@ -122,25 +122,25 @@ Public transportation is vital to sustainable cities but faces challenges like u
     </video>
     <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
   </div>
-  
+
 ## Wiring and System Integration
 
-The wiring system connects the LED strip, PWM controller, BJT amplifier and other Clicks for seamless operation.  
+The wiring system connects the LED strip, PWM controller, BJT amplifier and other Clicks for seamless operation.
 
 <div style="text-align: center;">
   <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
 </div>
 
 
- -->
+-->
 
-## **Project Scope**  
-Public transportation is vital to sustainable cities but faces challenges such as unreliable schedules, weather exposure, and limited real-time updates. This project aims to modernize transit infrastructure by integrating IoT, renewable energy, and user-focused design.  
+## **Project Scope**
+Public transportation is vital to sustainable cities but faces challenges such as unreliable schedules, weather exposure, and limited real-time updates. This project aims to modernise transit infrastructure by integrating IoT, renewable energy, and user-focused design.
 
-The **Smart Bus Stop** addresses these challenges by:  
-- Providing **real-time information** to improve commuter experience.  
-- Promoting **sustainability** through solar-powered systems.  
-- Enhancing **user experience** with accessible and ergonomic designs.  
+The **Smart Bus Stop** addresses these challenges by:
+- Providing **real-time information** to improve commuter experience.
+- Promoting **sustainability** through solar-powered systems.
+- Enhancing **user experience** with accessible and ergonomic designs.
   <div style="text-align: center;">
     <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
@@ -148,11 +148,11 @@ The **Smart Bus Stop** addresses these challenges by:
 
 ---
 
-## **My Role**  
+## **My Role**
 As the team leader for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality. I distributed tasks effectively, ensuring that each team member contributed to their strengths. I led the design and development process, coding most of the system and overseeing the execution of key features. Additionally, I supported my peers in creating the real-life mock-up, designing the poster, recording and editing the video, and preparing the presentation slides, fostering a collaborative and productive team environment.
-<!-- - Designing the **system architecture** to integrate IoT components, solar power, and user-centric features.  
-- Conducting **research** to align the design with commuter needs and environmental sustainability.  
-- Developing the **lighting system** with modified LED strips and a PWM-controlled brightness system.  
+<!-- - Designing the **system architecture** to integrate IoT components, solar power, and user-centric features.
+- Conducting **research** to align the design with commuter needs and environmental sustainability.
+- Developing the **lighting system** with modified LED strips and a PWM-controlled brightness system.
 - Overseeing the **prototyping process**, including wiring and system integration. -->
 ---
 
@@ -163,7 +163,7 @@ As the team leader for this project, I guided a group of four in transforming th
 - Studied eco-friendly systems to develop **solar-powered designs**, reducing the carbon footprint.
 
 ### **Prototyping and Development**
-- Designed the system in **Tinkercad** for early visualizations.
+- Designed the system in **Tinkercad** for early visualisations.
   <div style="text-align: center;">
     <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
@@ -215,19 +215,19 @@ As the team leader for this project, I guided a group of four in transforming th
 ---
 
 ## **Outcome Achieved**
-The Smart Bus Stop successfully demonstrates:  
-- **Real-Time Information**: GPS and cloud integration for live bus tracking and arrival updates.  
-- **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.  
+The Smart Bus Stop successfully demonstrates:
+- **Real-Time Information**: GPS and cloud integration for live bus tracking and arrival updates.
+- **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.
 - **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
 
 ### Additional Deliverables:
-- **Video Demonstration**:  
-  {{< youtube nPJaNwRcq4I >}}
+- **Video Demonstration**:
+{{< youtube nPJaNwRcq4I >}}
 
-- **Presentation Slides**:  
+- **Presentation Slides**:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-- **Poster**:  
+- **Poster**:
   <div style="text-align: center;">
     <img src="poster.png" alt="Poster" style="max-width: 100%; height: auto; padding: 10px;">
   </div>
