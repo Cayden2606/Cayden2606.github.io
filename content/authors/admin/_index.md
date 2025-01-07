@@ -210,6 +210,8 @@ languages:
 
 ## About Me
 
-Cayden Theseira is a fresh graduate from Nanyang Polytechnic, holding a diploma in Electronic and Computer Engineering. With a strong passion for software development and a focus on computer engineering, Cayden's interests span IoT applications, user experience design, and innovative solutions for sustainability.
+Hi, I'm Cayden Theseira, a fresh graduate from Nanyang Polytechnic with a diploma in Electronic and Computer Engineering. I graduated with a stellar 3.99 GPA and was honored on the Director's List for three consecutive years.
+
+I have a strong passion for software development and a keen focus on computer engineering. My interests include IoT applications, user experience design, and crafting innovative solutions that drive sustainability. I thrive on tackling challenges and creating impactful projects that merge technology with real-world needs.
 <!-- 
 He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications. -->
