@@ -84,7 +84,9 @@ This project demonstrates my expertise in PCB design using Autodesk Eagle. By co
 ## **Project Scope**  
 The aim of this project was to design and implement a **4-layer printed circuit board (PCB)** using **Autodesk Eagle** software. The objective was to create an efficient, noise-managed, and compact PCB while maintaining a functional and aesthetically organized design.
 
-![PCB Overview](PCBLayout.png)
+<div style="text-align: center;">
+    <img src="PCBLayout.png" alt="PCB Overview" style="width:100%; margin:10px auto;">
+</div>
 
 ---
 
@@ -99,7 +101,9 @@ I was responsible for the entire PCB development process, including schematic de
 - Created logical connections between components.  
 - Verified schematic accuracy to avoid errors.  
 
-![Schematic Design](OpAmpSch.png)
+<div style="text-align: center;">
+    <img src="OpAmpSch.png" alt="Schematic Design" style="width:100%; margin:10px auto;">
+</div>
 
 ---
 
@@ -137,19 +141,27 @@ The project was successful in achieving its goals of creating a functional and p
 - The op-amp circuit is integral for signal amplification and conditioning in this project.
 
 **Schematic**  
-![Op Amp Schematic](OpAmpSch.png)
+<div style="text-align: center;">
+    <img src="OpAmpSch.png" alt="Op Amp Schematic" style="width:100%; margin:10px auto;">
+</div>
 
 **Board Layout**  
-![Op Amp Board](OpAmpBoard.png)
+<div style="text-align: center;">
+    <img src="OpAmpBoard.png" alt="Op Amp Board" style="width:100%; margin:10px auto;">
+</div>
 
 #### **MCU Integration**
 - The microcontroller unit (MCU) is the brain of the system, responsible for processing inputs and controlling outputs.
 
 **Schematic**  
-![MCU Schematic](featuredSch.png)
+<div style="text-align: center;">
+    <img src="featuredSch.png" alt="MCU Schematic" style="width:100%; margin:10px auto;">
+</div>
 
 **Board Layout**  
-![MCU Board](featured.png)
+<div style="text-align: center;">
+    <img src="featured.png" alt="MCU Board" style="width:100%; margin:10px auto;">
+</div>
 
 ---
 
