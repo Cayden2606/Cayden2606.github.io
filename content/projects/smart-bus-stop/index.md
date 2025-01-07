@@ -150,8 +150,11 @@ The **Smart Bus Stop** addresses these challenges by:
 ---
 
 ## **My Role**  
-
-As the team leader for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality. I distributed tasks effectively, ensuring that each team member contributed to their strengths. I led the design and development process, coding most of the system and overseeing the execution of key features. Additionally, I supported my peers in creating the real-life mock-up, designing the poster, recording and editing the video, and preparing the presentation slides, fostering a collaborative and productive team environment.
+As the project lead, I was responsible for:  
+- Designing the **system architecture** to integrate IoT components, solar power, and user-centric features.  
+- Conducting **research** to align the design with commuter needs and environmental sustainability.  
+- Developing the **lighting system** with modified LED strips and a PWM-controlled brightness system.  
+- Overseeing the **prototyping process**, including wiring and system integration.
 ---
 
 ## **Work Process**
