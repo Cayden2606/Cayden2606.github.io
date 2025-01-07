@@ -183,7 +183,11 @@ In addition to technical contributions, I worked with my teammates to create the
 5. **Monitoring and Dashboard**
    - Utilised **ENV III** sensors to continuously track internal temperature.
    - Created a dashboard on **Qubitro** for real-time updates on door status and temperature conditions.
-
+  <div style="text-align: center;">
+    <img src="dashboard.jpg" alt="Dashboard - Qubitro" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Dashboard - Qubitro</div>
+  </div>
+  
 ### **Prototyping and Testing**
 - Built and tested the prototype using M5Stack modules (Transmitter and Receiver).
 - Verified the functionality of the automatic door closure system under various scenarios.
@@ -229,10 +233,6 @@ The project was recognised and featured by [M5Stack](https://www.linkedin.com/po
   <div style="text-align: center;">
     <img src="receiver.jpg" alt="M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">M5Stack 2 (Receiver)</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="dashboard.jpg" alt="Dashboard - Qubitro" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Dashboard - Qubitro</div>
   </div>
 </div>
 
