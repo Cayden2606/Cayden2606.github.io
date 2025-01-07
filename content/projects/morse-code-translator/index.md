@@ -193,9 +193,8 @@ After extensive testing and iterations, the Morse Code Translator successfully:
 - **Translate button**: Finalises and translates Morse Code.
 
 ### **Video Presentation**
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uOvau-e6JUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+{{< youtube uOvau-e6JUY >}}
 
 ### **Challenges Faced**
 1. **Troubleshooting the circuit**:
