@@ -11,7 +11,7 @@ image:
 authors:
   - admin
   - Rachel Lee
-  - Xing Lu
+  - Xinglu
 
 tags:
   - IoT 
@@ -133,9 +133,8 @@ The wiring system connects the LED strip, PWM controller, BJT amplifier and othe
 
 
  -->
-# **Smart Bus Stop Project**
 
-## **1. Project Problem/Aim (Project Scope)**  
+## **Project Scope**  
 Public transportation is vital to sustainable cities but faces challenges such as unreliable schedules, weather exposure, and limited real-time updates. This project aims to modernize transit infrastructure by integrating IoT, renewable energy, and user-focused design.  
 
 The **Smart Bus Stop** addresses these challenges by:  
@@ -150,16 +149,11 @@ The **Smart Bus Stop** addresses these challenges by:
 
 ---
 
-## **2. Your Role**  
-As the project lead, I was responsible for:  
-- Designing the **system architecture** to integrate IoT components, solar power, and user-centric features.  
-- Conducting **research** to align the design with commuter needs and environmental sustainability.  
-- Developing the **lighting system** with modified LED strips and a PWM-controlled brightness system.  
-- Overseeing the **prototyping process**, including wiring and system integration.
-
+## **My Role**  
+As the team leader for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality. I distributed tasks effectively, ensuring that each team member contributed to their strengths. I led the design and development process, coding most of the system and overseeing the execution of key features. Additionally, I supported my peers in creating the real-life mock-up, designing the poster, recording and editing the video, and preparing the presentation slides, fostering a collaborative and productive team environment.
 ---
 
-## **3. Work Process**
+## **Work Process**
 
 ### **Research and Design**
 - Conducted surveys to understand commuter preferences, revealing that **75% of users prefer real-time transit updates**.
@@ -173,7 +167,7 @@ As the project lead, I was responsible for:
   <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
 </div>
 
-- Integrated **BeagleBone Black Wireless** for IoT functionalities, enabling GPS tracking and cloud integration.
+- Integrated **BeagleBone Black Wireless** for IoT functionalities and cloud integration.
 
 <div style="text-align: center;">
   <video autoplay loop muted style="max-width: 100%; height: auto;">
@@ -221,7 +215,7 @@ As the project lead, I was responsible for:
 
 ---
 
-## **4. Results/Outcome Achieved**
+## **Outcome Achieved**
 The Smart Bus Stop successfully demonstrates:  
 - **Real-Time Information**: GPS and cloud integration for live bus tracking and arrival updates.  
 - **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.  

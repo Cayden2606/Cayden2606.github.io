@@ -79,8 +79,6 @@ This project demonstrates my expertise in PCB design using Autodesk Eagle. By co
 
 --- -->
 
-# **PCB Design Showcase**
-
 ## **Project Scope**  
 The aim of this project was to design and implement a **4-layer printed circuit board (PCB)** using **Autodesk Eagle** software. The objective was to create an efficient, noise-managed, and compact PCB while maintaining a functional and aesthetically organized design.
 
