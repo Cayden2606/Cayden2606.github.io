@@ -169,13 +169,13 @@ In addition to technical contributions, I worked with my teammates to create the
 4. **Flowcharts**
    - Developed step-by-step flowcharts to map the operational logic for both **Transmitter (M5Stack 1)** and **Receiver (M5Stack 2)**.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="flowchart1.png" alt="Flowchart for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-around; align-items: flex-start; gap: 20px; width: 100%;">
+    <div style="text-align: center; flex: 1;">
+        <img src="flowchart1.png" alt="Flowchart for M5Stack 1 (Transmitter)" style="max-width: 90%; height: auto;">
         <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 1 (Transmitter)</div>
     </div>
-    <div style="text-align: center;">
-        <img src="flowchart2.png" alt="Flowchart for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
+    <div style="text-align: center; flex: 1;">
+        <img src="flowchart2.png" alt="Flowchart for M5Stack 2 (Receiver)" style="max-width: 90%; height: auto;">
         <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 2 (Receiver)</div>
     </div>
 </div>
