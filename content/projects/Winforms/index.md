@@ -160,6 +160,11 @@ This was a solo project, requiring independent learning to master new concepts. 
 
 ### **Doodle Paint**
 
+<div style="text-align: center;">
+  <img src="https://github.com/Cayden2606/Winforms-Doodle-App/raw/main/Paint.png" alt="Doodle Paint" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Doodle Paint Application</div>
+</div>
+
 #### Research and Development
 - Researched existing painting tools to identify essential features and innovative functionalities.
 - Learned modular programming techniques to build scalable and maintainable code.
@@ -188,15 +193,14 @@ This was a solo project, requiring independent learning to master new concepts. 
 - Built and tested the application using Visual Studio in Release configuration.
 - Ensured all tools and features worked seamlessly through rigorous testing.
 
-#### Media
-<div style="text-align: center;">
-  <img src="https://github.com/Cayden2606/Winforms-Doodle-App/raw/main/Paint.png" alt="Doodle Paint" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">Doodle Paint Application</div>
-</div>
-
 ---
 
 ### **WinForm Calculator**
+
+<div style="text-align: center;">
+  <img src="https://github.com/Cayden2606/Winforms-Calculator/raw/master/Calculator.png" alt="WinForm Calculator" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">WinForm Calculator Application</div>
+</div>
 
 #### Research and Development
 - Analyzed existing calculator tools to design a user-friendly and efficient interface.
@@ -222,13 +226,6 @@ This was a solo project, requiring independent learning to master new concepts. 
 #### Installation and Testing
 - Built and tested the application in Visual Studio using the Release configuration.
 - Verified all calculations, features, and UI transitions for error-free operation.
-
-#### Media
-<div style="text-align: center;">
-  <img src="https://github.com/Cayden2606/Winforms-Calculator/raw/master/Calculator.png" alt="WinForm Calculator" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">WinForm Calculator Application</div>
-</div>
-
 ---
 
 ## **Results/Outcome Achieved**
