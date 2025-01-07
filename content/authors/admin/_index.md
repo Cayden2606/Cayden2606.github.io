@@ -23,10 +23,8 @@ highlight_name: true
 role: Contact Me by
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: OpenAI
-#     url: https://openai.com/
-
+organizations:
+  - name: Contact Me by
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -112,9 +110,9 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
+# skills:
+#   - name: Technical Skills
+#     items:
 skills:
   - name: Technical Skills
     items:
