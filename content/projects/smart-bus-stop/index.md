@@ -150,6 +150,7 @@ The **Smart Bus Stop** addresses these challenges by:
 ---
 
 ## **My Role**  
+
 As the team leader for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality. I distributed tasks effectively, ensuring that each team member contributed to their strengths. I led the design and development process, coding most of the system and overseeing the execution of key features. Additionally, I supported my peers in creating the real-life mock-up, designing the poster, recording and editing the video, and preparing the presentation slides, fostering a collaborative and productive team environment.
 ---
 
