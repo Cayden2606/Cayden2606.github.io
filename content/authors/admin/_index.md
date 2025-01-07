@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Cayden2606
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/cayden-theseira-48235233a/
+    url: https://www.linkedin.com/in/cayden-theseira/
   - icon: 'phone'
     url: 'tel:6591877075'
   # - icon: academicons/google-scholar
