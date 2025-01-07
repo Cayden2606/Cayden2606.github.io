@@ -29,7 +29,7 @@ tags:
   GitHub Repository for Smart Bus Stop
 </a>
 
-## Story
+<!-- ## Story
 
 Public transportation is vital to sustainable cities but faces challenges like unreliable schedules, weather exposure, and limited real-time updates. The **Smart Bus Stop** combines IoT, renewable energy, and user-focused design to overcome these issues, modernizing transit infrastructure.
 
@@ -132,4 +132,109 @@ The wiring system connects the LED strip, PWM controller, BJT amplifier and othe
 </div>
 
 
+ -->
+# **Smart Bus Stop Project**
 
+## **1. Project Problem/Aim (Project Scope)**  
+Public transportation is vital to sustainable cities but faces challenges such as unreliable schedules, weather exposure, and limited real-time updates. This project aims to modernize transit infrastructure by integrating IoT, renewable energy, and user-focused design.  
+
+The **Smart Bus Stop** addresses these challenges by:  
+- Providing **real-time information** to improve commuter experience.  
+- Promoting **sustainability** through solar-powered systems.  
+- Enhancing **user experience** with accessible and ergonomic designs.  
+
+<div style="text-align: center;">
+  <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
+</div>
+
+---
+
+## **2. Your Role**  
+As the project lead, I was responsible for:  
+- Designing the **system architecture** to integrate IoT components, solar power, and user-centric features.  
+- Conducting **research** to align the design with commuter needs and environmental sustainability.  
+- Developing the **lighting system** with modified LED strips and a PWM-controlled brightness system.  
+- Overseeing the **prototyping process**, including wiring and system integration.
+
+---
+
+## **3. Work Process**
+
+### **Research and Design**
+- Conducted surveys to understand commuter preferences, revealing that **75% of users prefer real-time transit updates**.
+- Studied eco-friendly systems to develop **solar-powered designs**, reducing the carbon footprint.
+
+### **Prototyping and Development**
+- Designed the system in **Tinkercad** for early visualizations.
+
+<div style="text-align: center;">
+  <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
+</div>
+
+- Integrated **BeagleBone Black Wireless** for IoT functionalities, enabling GPS tracking and cloud integration.
+
+<div style="text-align: center;">
+  <video autoplay loop muted style="max-width: 100%; height: auto;">
+    <source src="Media/BBBWs.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless Integration</div>
+</div>
+
+### **Lighting System Development**
+- Used recycled materials to create a **modified LED strip** with **PWM brightness control** via a BJT amplifier circuit.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Media/Lighting.jpeg" alt="Modified LED Strip" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Modified LED Strip</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="Media/Circuit.jpg" alt="BJT Amplifier Circuit" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">BJT Amplifier Circuit</div>
+  </div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/PWM.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">PWM Demonstration</div>
+  </div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/PWM2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">PWM Demonstration</div>
+  </div>
+</div>
+
+### **System Integration**
+- Connected LED strips, PWM controllers, and IoT components to complete the system wiring.
+
+<div style="text-align: center;">
+  <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+  <div style="font-size: small; margin-top: -10px;">Wiring Diagram</div>
+</div>
+
+---
+
+## **4. Results/Outcome Achieved**
+The Smart Bus Stop successfully demonstrates:  
+- **Real-Time Information**: GPS and cloud integration for live bus tracking and arrival updates.  
+- **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.  
+- **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
+
+### Additional Deliverables:
+- **Video Demonstration**:  
+  {{< youtube nPJaNwRcq4I >}}
+
+- **Presentation Slides**:  
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+- **Poster**:  
+  <div style="text-align: center;">
+    <img src="poster.png" alt="Poster" style="max-width: 100%; height: auto; padding: 10px;">
+  </div>
