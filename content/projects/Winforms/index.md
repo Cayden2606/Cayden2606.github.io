@@ -29,7 +29,7 @@ tags:
 </a>
 
 
-## Overview
+<!-- ## Overview
 
 This project utilizes WinForms in .NET Framework 4.8 to create visually appealing and functional applications. Below are two featured applications:
 
@@ -140,5 +140,107 @@ This project enhances the functionality of a calculator application built using 
 ### Usage
 Enjoy a feature-packed calculator for all your mathematical needs. Switch between Standard and Scientific modes with ease, customize the sound settings, and use the enhanced interaction features for a smooth user experience.
 
+
+ -->
+
+
+## **Project Scope**
+
+This project utilizes **WinForms in .NET Framework 4.8** to create visually appealing and functional applications. Two featured applications, **Doodle Paint** and **WinForm Calculator**, showcase creativity, user-friendly design, and robust functionalities that cater to various needs, such as painting, drawing, and advanced scientific calculations.
+
+---
+
+## **My Role**
+
+This was a solo project, requiring independent learning to master new concepts. I learned the syntax of **C#** and how to use **WinForms with .NET Framework 4.8**, despite limited documentation and guidance. I designed, developed, and implemented the applications entirely on my own, focusing on creating functional and user-friendly software while applying innovative features.
+
+---
+
+## **Work Process**
+
+### **Doodle Paint**
+
+#### Research and Development
+- Researched existing painting tools to identify essential features and innovative functionalities.
+- Learned modular programming techniques to build scalable and maintainable code.
+
+#### Key Features
+1. **Drawing and Graphics**
+   - Custom brushes (Charcoal, Watercolor) with independent size settings.
+   - Shape tools for creating lines, circles, and rectangles.
+   - Emoji tools for adding customizable graphics.
+
+2. **Text Handling**
+   - Full font access with styling options (Bold, Italic, Underline).
+   - Input validation to prevent crashes from invalid font or size selections.
+
+3. **Color and Fill**
+   - Integrated a color picker tool and flood-fill algorithm.
+
+4. **Filters and Effects**
+   - Image filters like Grayscale and Luminosity for enhanced visuals.
+
+5. **UI Enhancements**
+   - Dynamic labels for real-time cursor and canvas information.
+   - Keyboard shortcuts for increased productivity.
+
+#### Installation and Testing
+- Built and tested the application using Visual Studio in Release configuration.
+- Ensured all tools and features worked seamlessly through rigorous testing.
+
+#### Media
+<div style="text-align: center;">
+  <img src="https://github.com/Cayden2606/Winforms-Doodle-App/raw/main/Paint.png" alt="Doodle Paint" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Doodle Paint Application</div>
+</div>
+
+---
+
+### **WinForm Calculator**
+
+#### Research and Development
+- Analyzed existing calculator tools to design a user-friendly and efficient interface.
+- Learned advanced mathematical functions and dynamic UI programming techniques.
+
+#### Key Features
+1. **User Interface**
+   - Compact, color-coded design with a collapsible hamburger menu.
+   - Seamless transitions between Standard and Scientific calculator modes.
+
+2. **Audio Features**
+   - Button sounds and audio announcements for results.
+   - Independent sound controls for enhanced customization.
+
+3. **Advanced Functionalities**
+   - Support for unary operators, trigonometry, and constants (π, e).
+   - Degree/Radian toggle and an ANS button for retrieving previous results.
+
+4. **Interaction Enhancements**
+   - Keyboard input compatibility for increased efficiency.
+   - Dynamic status indicators for modes and sound settings.
+
+#### Installation and Testing
+- Built and tested the application in Visual Studio using the Release configuration.
+- Verified all calculations, features, and UI transitions for error-free operation.
+
+#### Media
+<div style="text-align: center;">
+  <img src="https://github.com/Cayden2606/Winforms-Calculator/raw/master/Calculator.png" alt="WinForm Calculator" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">WinForm Calculator Application</div>
+</div>
+
+---
+
+## **Results/Outcome Achieved**
+
+### Doodle Paint
+- Delivered a highly functional and creative painting tool that includes customizable brushes, shapes, text handling, and image filters.
+- Received positive feedback for its user-friendly interface and advanced customization options.
+
+### WinForm Calculator
+- Successfully developed an intuitive calculator with both Standard and Scientific modes.
+- Enhanced usability with auditory feedback, advanced mathematical functions, and seamless transitions between layouts.
+
+---
 
 
