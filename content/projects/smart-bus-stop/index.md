@@ -1,7 +1,7 @@
 ---
 title: IoT Smart Bus Stop
 summary: An innovative dashboard and prototype aimed at redefining bus stop functionality through IoT and sustainability.
-date: 2026-08-07
+date: 2025-01-07
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customise its options here.
