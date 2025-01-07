@@ -29,7 +29,7 @@ tags:
 </a>
 
 
----
+<!-- ---
 
 ## Overview
 
@@ -128,5 +128,95 @@ The Scrambled Egg Rice  website mockup replicates a smooth online food ordering 
 
 
 Enjoy the **EGG-CELLENT** experience! 🥚✨
+
+--- -->
+
+
+## **Project Scope**
+
+The **Scrambled Egg Rice** website mock-up replicates a seamless online food ordering experience. It features user-friendly navigation, detailed product menus, ordering forms, and registration options. The project emphasises responsive design and clean visuals to deliver an enjoyable browsing experience. This is an individual project, where I coded the HTML and CSS from scratch as a mock-up for a fictitious food store in my school.
+
+---
+
+## **My Role**
+
+As the sole contributor to this project, I conceptualised, designed, and implemented the entire website. I created the HTML and CSS from scratch, ensuring a responsive and visually appealing layout. Additionally, I integrated external tools for form handling and incorporated custom images and typography to enhance the overall user experience.
+
+---
+
+## **Work Process**
+
+### **Design and Development**
+1. **Homepage (`index.html`)**
+   - Welcomes visitors with promotional banners and featured reviews.
+   - Includes a call-to-action directing users to the menu and ordering pages.
+
+2. **Menu Page (`menu.html`)**
+   - Displays available scrambled egg rice bowls with images, descriptions, and prices.
+
+3. **Order Page (`order.html`)**
+   - Allows customers to customise orders, select add-ons, and input delivery details.
+
+4. **About Us Page (`about-us.html`)**
+   - Shares the story of **Scrambled Egg Rice**, along with location details (integrated Google Maps) and contact options.
+
+5. **Sign-in Page (`sign-in.html`)**
+   - Features a secure registration form with input validation for new users.
+
+### **Media and Features**
+#### Page Previews
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Homepage.png" alt="Homepage" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Homepage</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="Menu.png" alt="Menu Page" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Menu Page</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="AboutUs.png" alt="About Us Page" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">About Us Page</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="Buy.png" alt="Order Page" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Order Page</div>
+  </div>
+</div>
+
+#### Video Demonstration
+<div style="text-align: center;">
+  <video autoplay loop muted style="max-width: 100%; height: auto;">
+    <source src="Site.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div style="font-size: small; margin-top: -10px;">Scrambled Egg Rice Website Mock-Up 🍳🍚</div>
+</div>
+
+---
+
+## **Outcome Achieved**
+
+- Delivered a functional website mock-up showcasing smooth navigation, clean visuals, and responsive design.
+- Integrated an external form handler for testing order submissions, providing a realistic user experience.
+- Received positive feedback for its engaging design and intuitive interface.
+
+---
+
+### Technologies Used
+- **HTML5**: For structuring the website.
+- **CSS3**: For styling and ensuring responsiveness.
+- **Google Fonts**: Incorporated "Poppins" font for a clean and modern look.
+- **External Form Handler**: [jkorpela.fi](https://jkorpela.fi/cgi-bin/echo.cgi) for testing form submissions.
+- **Custom Media**: Included bespoke food images and icons for a professional appearance.
+
+---
+
+## **Future Enhancements**
+
+- Add **JavaScript** for enhanced interactivity and form validation.
+- Implement a backend system for real-time order processing and user authentication.
+- Include a database to store user data and order details.
+- Further improve **mobile responsiveness** for smaller devices.
 
 ---
