@@ -67,7 +67,7 @@ This project aims to address the significant energy consumption of refrigerators
 
 ### Pictures
 <!-- ![featured.jpg](featured.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Prototype</span>![transmitter.jpg](transmitter.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 1 (Transmitter)</span>![receiver.jpg](receiver.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">M5Stack 2 (Receiver)</span>![dashboard.jpg](dashboard.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Dashboard - Qubitro</span>![blk-dia-trans.jpg](blk-dia-trans.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 1 (Transmitter)</span>![Blk-Dia-rec.jpg](Blk-Dia-rec.jpg)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Block Diagram for M5Stack 2 (Receiver)</span>![flowchart1.png](flowchart1.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 1 (Transmitter)</span>![flowchart2.png](flowchart2.png)<span style="display: block; text-align: center; font-size: small; transform: translateY(-50px);">Flowchart for M5Stack 2 (Receiver)</span>   -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
     <img src="featured.jpg" alt="Prototype" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Prototype</div>
@@ -120,7 +120,6 @@ Highlights of the Event:
 
  -->
 
-
 ## **Project Scope**
 
 Supermarket refrigeration units consume vast amounts of energy, accounting for 50-60% of the electricity used in a supermarket. Studies by the Department of Environment, Food, and Rural Affairs reveal that refrigeration in the retail food sector contributes around 3% of the UK's annual energy output, equivalent to powering 800,000 homes.  
@@ -134,8 +133,6 @@ This project seeks to reduce energy consumption in supermarkets by addressing th
 As a key contributor to this group project, I played a significant role in refining the initial system design and rewriting the codebase to optimise functionality. I was responsible for integrating hardware components, such as sensors and automation features, and developing a real-time monitoring dashboard to ensure seamless performance.
 
 In addition to technical contributions, I worked with my teammates to create the project poster, prepare presentation materials, and present the system at **Technexus 2024**. Presenting to industry professionals was a challenging yet rewarding experience, where we successfully showcased the project’s features and its potential for real-world applications.
-
-
 
 ---
 
@@ -156,7 +153,33 @@ In addition to technical contributions, I worked with my teammates to create the
    - Designed a user interface that provides **visual and auditory alerts** to prompt shoppers to close doors.
    - Added real-time notifications on the dashboard via Qubitro for easy monitoring.
 
-3. **Monitoring and Dashboard**
+3. **Block Diagrams**
+   - Visualised the system architecture for the **Transmitter (M5Stack 1)** and **Receiver (M5Stack 2)** using detailed block diagrams.
+
+<div style="text-align: centre;">
+    <img src="blk-dia-trans.jpg" alt="Block Diagram for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Block Diagram for M5Stack 1 (Transmitter)</div>
+</div>
+
+<div style="text-align: centre;">
+    <img src="Blk-Dia-rec.jpg" alt="Block Diagram for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Block Diagram for M5Stack 2 (Receiver)</div>
+</div>
+
+4. **Flowcharts**
+   - Developed step-by-step flowcharts to map the operational logic for both **Transmitter (M5Stack 1)** and **Receiver (M5Stack 2)**.
+
+<div style="text-align: centre;">
+    <img src="flowchart1.png" alt="Flowchart for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 1 (Transmitter)</div>
+</div>
+
+<div style="text-align: centre;">
+    <img src="flowchart2.png" alt="Flowchart for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 2 (Receiver)</div>
+</div>
+
+5. **Monitoring and Dashboard**
    - Utilised **ENV III** sensors to continuously track internal temperature.
    - Created a dashboard on **Qubitro** for real-time updates on door status and temperature conditions.
 
@@ -165,7 +188,21 @@ In addition to technical contributions, I worked with my teammates to create the
 - Verified the functionality of the automatic door closure system under various scenarios.
 - Tested the system's ability to reduce power consumption while maintaining optimal refrigeration conditions.
 
-### **Media**
+---
+
+## **Results/Outcome Achieved**
+
+### Key Achievements
+- Successfully reduced energy wastage by automating door closure and providing real-time alerts.
+- Designed a modular system compatible with pre-existing refrigeration units, minimising installation cost and effort.
+- Enhanced environmental sustainability by addressing shopper behaviour and optimising energy usage.
+
+### Recognition
+- **M5Stack Recognition**: The project was recognised and featured by M5Stack on their official **LinkedIn** page, highlighting the innovative use of their technology.
+- Nominated and showcased at **Technexus 2024**, a prestigious academic project event.
+- **1st Place Winner** in the Year 1 Category, demonstrating innovation, technical excellence, and real-world impact.
+
+### Media
 #### Video Demonstration
 {{< youtube NVHdf7NcfQY >}}
 
@@ -190,41 +227,10 @@ In addition to technical contributions, I worked with my teammates to create the
     <img src="dashboard.jpg" alt="Dashboard - Qubitro" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Dashboard - Qubitro</div>
   </div>
-  <div style="text-align: centre;">
-    <img src="blk-dia-trans.jpg" alt="Block Diagram for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Block Diagram for M5Stack 1 (Transmitter)</div>
-  </div>
-  <div style="text-align: centre;">
-    <img src="Blk-Dia-rec.jpg" alt="Block Diagram for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Block Diagram for M5Stack 2 (Receiver)</div>
-  </div>
-  <div style="text-align: centre;">
-    <img src="flowchart1.png" alt="Flowchart for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 1 (Transmitter)</div>
-  </div>
-  <div style="text-align: centre;">
-    <img src="flowchart2.png" alt="Flowchart for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 2 (Receiver)</div>
-  </div>
 </div>
-
----
-
-## **Results/Outcome Achieved**
-
-### Key Achievements
-- Successfully reduced energy wastage by automating door closure and providing real-time alerts.
-- Designed a modular system compatible with pre-existing refrigeration units, minimising installation cost and effort.
-- Enhanced environmental sustainability by addressing shopper behaviour and optimising energy usage.
-
-### Recognition
-- Nominated and showcased at **Technexus 2024**, a prestigious academic project event.
-- **1st Place Winner** in the Year 1 Category, demonstrating innovation, technical excellence, and real-world impact.
 
 {{< youtube dl89P1_xHiQ >}}
 
-#### Highlights of the Event
-- Achievement: 1st Place in the Year 1 Category.
-- Showcase: Provided a platform to engage with industry leaders and peers, fostering inspiration and learning.
-
 ---
+
+This version ensures the **block diagrams and flowcharts are logically placed in the Work Process section**, and other images remain in the **Outcome** section for better flow and organisation. Let me know if additional edits are needed! 😊
