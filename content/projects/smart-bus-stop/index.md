@@ -141,11 +141,10 @@ The **Smart Bus Stop** addresses these challenges by:
 - Providing **real-time information** to improve commuter experience.  
 - Promoting **sustainability** through solar-powered systems.  
 - Enhancing **user experience** with accessible and ergonomic designs.  
-
-<div style="text-align: center;">
-  <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
-</div>
+  <div style="text-align: center;">
+    <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
+  </div>
 
 ---
 
@@ -165,57 +164,53 @@ As the team leader for this project, I guided a group of four in transforming th
 
 ### **Prototyping and Development**
 - Designed the system in **Tinkercad** for early visualizations.
-
-<div style="text-align: center;">
-  <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
-</div>
+  <div style="text-align: center;">
+    <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
+  </div>
 
 - Integrated **BeagleBone Black Wireless** for IoT functionalities and cloud integration.
-
-<div style="text-align: center;">
-  <video autoplay loop muted style="max-width: 100%; height: auto;">
-    <source src="Media/BBBWs.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless Integration</div>
-</div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/BBBWs.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless Integration</div>
+  </div>
 
 ### **Lighting System Development**
 - Used recycled materials to create a **modified LED strip** with **PWM brightness control** via a BJT amplifier circuit.
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="Media/Lighting.jpeg" alt="Modified LED Strip" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Modified LED Strip</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+      <img src="Media/Lighting.jpeg" alt="Modified LED Strip" style="max-width: 100%; height: auto;">
+      <div style="font-size: small; margin-top: -10px;">Modified LED Strip</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="Media/Circuit.jpg" alt="BJT Amplifier Circuit" style="max-width: 100%; height: auto;">
+      <div style="font-size: small; margin-top: -10px;">BJT Amplifier Circuit</div>
+    </div>
+    <div style="text-align: center;">
+      <video autoplay loop muted style="max-width: 100%; height: auto;">
+        <source src="Media/PWM.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="font-size: small; margin-top: -10px;">PWM Demonstration</div>
+    </div>
+    <div style="text-align: center;">
+      <video autoplay loop muted style="max-width: 100%; height: auto;">
+        <source src="Media/PWM2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="font-size: small; margin-top: -10px;">PWM Demonstration</div>
+    </div>
   </div>
-  <div style="text-align: center;">
-    <img src="Media/Circuit.jpg" alt="BJT Amplifier Circuit" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">BJT Amplifier Circuit</div>
-  </div>
-  <div style="text-align: center;">
-    <video autoplay loop muted style="max-width: 100%; height: auto;">
-      <source src="Media/PWM.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="font-size: small; margin-top: -10px;">PWM Demonstration</div>
-  </div>
-  <div style="text-align: center;">
-    <video autoplay loop muted style="max-width: 100%; height: auto;">
-      <source src="Media/PWM2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="font-size: small; margin-top: -10px;">PWM Demonstration</div>
-  </div>
-</div>
 
 ### **System Integration**
 - Connected LED strips, PWM controllers, and IoT components to complete the system wiring.
-
-<div style="text-align: center;">
-  <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-  <div style="font-size: small; margin-top: -10px;">Wiring Diagram</div>
-</div>
+  <div style="text-align: center;">
+    <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+    <div style="font-size: small; margin-top: -10px;">Wiring Diagram</div>
+  </div>
 
 ---
 
