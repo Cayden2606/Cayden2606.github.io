@@ -176,9 +176,18 @@ The flowchart below outlines the logical structure and functionality of the ACE 
     <img src="flowchart.svg" alt="ACE Shopping Program Flowchart" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Logical Flow of ACE Shopping Program</div>
 </div> -->
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <a href="flowchart.svg" target="_blank" style="text-decoration: none;">
         <img src="flowchart.svg" alt="ACE Shopping Program Flowchart" style="max-width: 100%; height: auto;">
+    </a>
+    <div style="font-size: small; margin-top: -10px;">Logical Flow of ACE Shopping Program</div>
+</div> -->
+<div style="text-align: center;">
+    <a href="flowchart.svg" target="_blank" style="text-decoration: none;">
+        <img src="flowchart.svg" alt="ACE Shopping Program Flowchart" 
+             style="max-width: 100%; height: auto; transition: transform 0.2s; cursor: pointer;"
+             onmouseover="this.style.transform='scale(1.1)'" 
+             onmouseout="this.style.transform='scale(1)'">
     </a>
     <div style="font-size: small; margin-top: -10px;">Logical Flow of ACE Shopping Program</div>
 </div>
