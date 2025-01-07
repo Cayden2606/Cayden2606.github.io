@@ -28,7 +28,7 @@ tags:
   <img src="https://www.hackster.io/assets/hackster_logo_squared.png" alt="Hackster.io Logo" style="width: 30px; margin-right: 10px;">
   Hackster.io
 </a>
-<a href="https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop" style="display: flex; align-items: center;" target="_blank">
+<a href="https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop" style="display: flex; align-items: center;" target="_blank"; id="m5stack">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" alt="LinkedIn Logo" style="width: 30px; margin-right: 10px;">
   M5Stack LinkedIn Recognition to A.S.S
 </a>
@@ -156,12 +156,12 @@ In addition to technical contributions, I worked with my teammates to create the
 3. **Block Diagrams**
    - Visualised the system architecture for the **Transmitter (M5Stack 1)** and **Receiver (M5Stack 2)** using detailed block diagrams.
 
-<div style="text-align: centre;">
+<div style="text-align: center;">
     <img src="blk-dia-trans.jpg" alt="Block Diagram for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Block Diagram for M5Stack 1 (Transmitter)</div>
 </div>
 
-<div style="text-align: centre;">
+<div style="text-align: center;">
     <img src="Blk-Dia-rec.jpg" alt="Block Diagram for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Block Diagram for M5Stack 2 (Receiver)</div>
 </div>
@@ -169,12 +169,12 @@ In addition to technical contributions, I worked with my teammates to create the
 4. **Flowcharts**
    - Developed step-by-step flowcharts to map the operational logic for both **Transmitter (M5Stack 1)** and **Receiver (M5Stack 2)**.
 
-<div style="text-align: centre;">
+<div style="text-align: center;">
     <img src="flowchart1.png" alt="Flowchart for M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 1 (Transmitter)</div>
 </div>
 
-<div style="text-align: centre;">
+<div style="text-align: center;">
     <img src="flowchart2.png" alt="Flowchart for M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Flowchart for M5Stack 2 (Receiver)</div>
 </div>
@@ -198,9 +198,15 @@ In addition to technical contributions, I worked with my teammates to create the
 - Enhanced environmental sustainability by addressing shopper behaviour and optimising energy usage.
 
 ### Recognition
-- **M5Stack Recognition**: The project was recognised and featured by M5Stack on their official **LinkedIn** page, highlighting the innovative use of their technology.
+#### **M5Stack Recognition** 
+The project was recognised and featured by [M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop) on their official **LinkedIn** page, highlighting the innovative use of their technology.
+
+
+#### **Technexus 2024**
+{{< youtube dl89P1_xHiQ >}}
 - Nominated and showcased at **Technexus 2024**, a prestigious academic project event.
 - **1st Place Winner** in the Year 1 Category, demonstrating innovation, technical excellence, and real-world impact.
+
 
 ### Media
 #### Video Demonstration
@@ -210,27 +216,25 @@ In addition to technical contributions, I worked with my teammates to create the
 <iframe src="EEPY_A2.pdf" width="100%" height="500px" style="border: none;"></iframe>
 
 #### Images
-<div style="display: flex; flex-wrap: wrap; justify-content: centre; gap: 20px;">
-  <div style="text-align: centre;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
     <img src="featured.jpg" alt="Prototype" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Prototype</div>
   </div>
-  <div style="text-align: centre;">
+  <div style="text-align: center;">
     <img src="transmitter.jpg" alt="M5Stack 1 (Transmitter)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">M5Stack 1 (Transmitter)</div>
   </div>
-  <div style="text-align: centre;">
+  <div style="text-align: center;">
     <img src="receiver.jpg" alt="M5Stack 2 (Receiver)" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">M5Stack 2 (Receiver)</div>
   </div>
-  <div style="text-align: centre;">
+  <div style="text-align: center;">
     <img src="dashboard.jpg" alt="Dashboard - Qubitro" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Dashboard - Qubitro</div>
   </div>
 </div>
 
-{{< youtube dl89P1_xHiQ >}}
+
 
 ---
-
-This version ensures the **block diagrams and flowcharts are logically placed in the Work Process section**, and other images remain in the **Outcome** section for better flow and organisation. Let me know if additional edits are needed! 😊
