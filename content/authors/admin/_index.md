@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-# role: Chief Scientist
+role: Contact Me by
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -41,6 +41,8 @@ profiles:
     url: https://github.com/Cayden2606
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/cayden-theseira-48235233a/
+  - icon: 'phone'
+    url: 'tel:6591877075'
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
