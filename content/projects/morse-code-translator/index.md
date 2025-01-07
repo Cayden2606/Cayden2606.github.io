@@ -24,7 +24,7 @@ tags:
   GitHub Repository for Morse Code Translator
 </a>
 
-## Overview
+<!-- ## Overview
 
 This project is an interactive Morse Code Translator that:
 1. Lets users input Morse Code using push buttons.
@@ -125,5 +125,86 @@ After extensive testing and iterations, the Morse Code Translator successfully:
 This project was a rewarding experience, allowing me to combine engineering principles with creativity. It provided insight into hardware-software integration and troubleshooting techniques.
 
 Thank you for exploring my project. Feel free to reach out with questions or feedback!
+
+--- -->
+## **Project Scope**
+
+This project is an interactive Morse Code Translator that:
+1. Lets users input Morse Code using push buttons.
+2. Outputs the corresponding text and plays light and sound signals.
+3. Utilises servo motors to visually represent letters.
+
+The project combines historical inspiration with modern engineering to create a functional and engaging device.
+
+---
+
+## **My Role**
+
+As the sole developer of this project, I was responsible for conceptualising, designing, and building the Morse Code Translator. I handled all aspects of the project, including hardware assembly, code development, and debugging. Additionally, I created detailed sketches and a flowchart to visualise the system’s logic and design.
+
+---
+
+## **Work Process**
+
+### **Components Used**
+The Morse Code Translator was built using the following components:
+- 5 resistors
+- 4 push buttons
+- 7 servo motors
+- 1 LED
+- 1 buzzer
+- 1 breadboard
+- 1 Arduino
+- Various connecting wires
+
+### **Design and Implementation**
+#### Sketch of the Morse Code Translator
+<div style="text-align: center;">
+  <img src="Media/Arduino.png" alt="Sketch" style="max-width: 100%; height: auto;">
+</div>
+<div style="font-size: small; margin-top: -10px; text-align: center;">Sketch of Morse Code Translator</div>
+
+#### Flowchart of the Morse Code Translator
+<div style="text-align: center;">
+  <img src="Media/flowchartMCT.svg" alt="Flowchart Diagram" style="max-width: 100%; height: auto;">
+</div>
+<div style="font-size: small; margin-top: -10px; text-align: center;">Flowchart of Morse Code Translator</div>
+
+#### Early Development Picture
+<div style="text-align: center;">
+  <img src="Media/Planning.jpg" alt="Early pic" style="max-width: 100%; height: auto;">
+</div>
+<div style="font-size: small; margin-top: -10px; text-align: center;">Early Development Picture</div>
+
+---
+
+## **Outcome Achieved**
+
+After extensive testing and iterations, the Morse Code Translator successfully:
+- Converts user input into Morse Code or text.
+- Uses servo motors to visually represent letters.
+- Provides accurate light and sound feedback.
+
+### **Operation**
+- **Short click**: Represents a dot (`.`).
+- **Long press**: Represents a dash (`-`).
+- **Space button**: Differentiates between letters and words.
+- **Delete button**: Corrects the last input.
+- **Translate button**: Finalises and translates Morse Code.
+
+### **Video Presentation**
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uOvau-e6JUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### **Challenges Faced**
+1. **Troubleshooting the circuit**:
+   - Initial wiring issues caused incorrect signals.
+2. **Debugging code**:
+   - Logic errors in Python led to unexpected results.
+3. **Framework unfamiliarity**:
+   - Learning the AAD framework was challenging but rewarding.
+4. **Servo motor calibration**:
+   - Fine-tuning was crucial for accurate letter representation.
 
 ---
