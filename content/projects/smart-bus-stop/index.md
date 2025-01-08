@@ -168,6 +168,14 @@ As the team leader for this project, I guided a group of four in transforming th
     <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
     <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
   </div>
+- Designed bus stop integration using **Spline** for planning.
+    <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/busmodel.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">Bus Stop Integration Design</div>
+  </div>
 
 - Integrated **BeagleBone Black Wireless** for IoT functionalities and cloud integration.
   <div style="text-align: center;">
