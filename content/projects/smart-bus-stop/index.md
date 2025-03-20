@@ -228,9 +228,24 @@ The Smart Bus Stop successfully demonstrates:
 - **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.
 - **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
 
-### Additional Deliverables:
-- **Video Demonstration**:
-{{< youtube nPJaNwRcq4I >}}
+### Recognition
+#### **M5Stack Recognition** 
+The project was recognised and featured by [M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop) on their official **LinkedIn** page, highlighting the innovative use of their technology.
+
+
+#### **Technexus 2025**
+<div class="grid grid-cols-2 gap-4">
+    <div class="flex flex-col items-center">
+      <img src="technexus.jpg" alt="WRG Volunteers" class="w-32 h-auto">
+      <div class="text-sm text-gray-700 dark:text-gray-300">Technexus 2025</div>
+    </div>
+    <div class="flex flex-col items-center">
+      <img src="technexus.png" alt="WRG Volunteers 1" class="w-32 h-auto">
+      <div class="text-sm text-gray-700 dark:text-gray-300">Technexus 2025</div>
+    </div>
+</div>
+- Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
+- **2nd place** overall and **1st place** as Most Popular, voted by students and attendees, showcasing creativity, technical expertise, and practical applicability.
 
 - **Presentation Slides**:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

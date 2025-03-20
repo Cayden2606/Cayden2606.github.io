@@ -41,9 +41,9 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/cayden-theseira/
     label: Find me on LinkedIn
-  - icon: 'phone'
-    url: 'tel:6591877075'
-    label: Call me at +65 9187 7075
+  # - icon: 'phone'
+  #   url: 'tel:'
+  #   label: Call me at +65
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -58,13 +58,14 @@ education:
   - area: Diploma in Electronic and Computer Engineering
     institution: Nanyang Polytechnic
     date_start: 2023-04-01
-    date_end: 2024-03-01
+    date_end: 2026-03-01
     summary: |
       - Cumulative GPA: 3.99
       - Director’s List for 3 consecutive semesters
       - Edusave Bursary Award: 2024
       - Specialised in Computer Engineering
       - Student Mentor
+      - Edusave Merit Bursary 2024
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -87,18 +88,18 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Computer Engineer Intern
-    company_name: Micron Technology®
-    company_url: 'https://sg.micron.com/'
-    company_logo: 'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-1/462593766_1057475599713657_6028837455313199_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=w0535QuNLvgQ7kNvgEhafmr&_nc_zt=24&_nc_ht=scontent.fsin16-1.fna&_nc_gid=AL5QZiJ6lahlPXSCrSzZgqt&oh=00_AYD06EWbPGfYtUMnELMNE2EiUDqrQ1y9-HWWo8ywSzKfKw&oe=67659452'
-    date_start: 2025-03-01
-    date_end: 2025-08-31
-    summary: |2-
-      Responsibilities include:
-        - Assisted in the development and testing of memory solutions for embedded systems
-        - Designed automated scripts in Python to streamline performance diagnostics for NAND products
-        - Gained hands-on experience with PCB testing tools and debugging techniques
+# work:
+#   - position: Computer Engineer Intern
+#     company_name: Micron Technology®
+#     company_url: 'https://sg.micron.com/'
+#     company_logo: 'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-1/462593766_1057475599713657_6028837455313199_n.jpg?stp=cp6_dst-jpg_s720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=w0535QuNLvgQ7kNvgEhafmr&_nc_zt=24&_nc_ht=scontent.fsin16-1.fna&_nc_gid=AL5QZiJ6lahlPXSCrSzZgqt&oh=00_AYD06EWbPGfYtUMnELMNE2EiUDqrQ1y9-HWWo8ywSzKfKw&oe=67659452'
+#     date_start: 2025-03-01
+#     date_end: 2025-08-31
+#     summary: |2-
+#       Responsibilities include:
+#         - Assisted in the development and testing of memory solutions for embedded systems
+#         - Designed automated scripts in Python to streamline performance diagnostics for NAND products
+#         - Gained hands-on experience with PCB testing tools and debugging techniques
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -213,7 +214,7 @@ languages:
 
 ## About Me
 
-Hi, I'm Cayden Theseira, a fresh graduate from Nanyang Polytechnic with a diploma in Electronic and Computer Engineering. I graduated with a stellar 3.99 GPA and was honored on the Director's List for three consecutive years.
+Hi, I'm Cayden Theseira, a dedicated student at Nanyang Polytechnic pursuing a Diploma in Electronic and Computer Engineering. With a cumulative GPA of 3.99 and recognition on the Director's List for three consecutive semesters, I strive for academic excellence while honing my skills in software development and computer engineering.
 
 I have a strong passion for software development and a keen focus on computer engineering. My interests include IoT applications, user experience design, and crafting innovative solutions that drive sustainability. I thrive on tackling challenges and creating impactful projects that merge technology with real-world needs.
 <!-- 
