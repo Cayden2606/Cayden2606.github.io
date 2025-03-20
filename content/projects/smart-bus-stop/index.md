@@ -244,6 +244,7 @@ The project was recognised and featured by [M5Stack](https://www.linkedin.com/po
       <div class="text-sm text-gray-700 dark:text-gray-300">Technexus 2025</div>
     </div>
 </div>
+
 - Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
 - **2nd place** overall and **1st place** as Most Popular, voted by students and attendees, showcasing creativity, technical expertise, and practical applicability.
 
