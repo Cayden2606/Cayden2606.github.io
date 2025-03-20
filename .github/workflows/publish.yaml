@@ -4,10 +4,13 @@ env:
   WC_HUGO_VERSION: '0.136.5'
 
 on:
+  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
+  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
+# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -18,6 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
@@ -25,17 +29,14 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
+          # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-    - uses: actions/cache@v4
+    - uses: actions/cache@v3
       with:
         path: /tmp/hugo_cache_runner/
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
@@ -43,7 +44,7 @@ jobs:
           ${{ runner.os }}-hugomod-
     - name: Setup Pages
       id: pages
-      uses: actions/configure-pages@v4
+      uses: actions/configure-pages@v3
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
@@ -53,10 +54,11 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v4
+      uses: actions/upload-pages-artifact@v2
       with:
         path: ./public
 
+  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
@@ -67,4 +69,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v2
