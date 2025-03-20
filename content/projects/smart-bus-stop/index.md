@@ -248,10 +248,10 @@ The project was recognised and featured by [M5Stack](https://www.linkedin.com/po
 - Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
 - **2nd place** overall and **1st place** as Most Popular, voted by students and attendees, showcasing creativity, technical expertise, and practical applicability.
 
-- **Presentation Slides**:
+**Presentation Slides**:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-- **Poster**:
+**Poster**:
   <div style="text-align: center;">
     <img src="poster.png" alt="Poster" style="max-width: 100%; height: auto; padding: 10px;">
   </div>
