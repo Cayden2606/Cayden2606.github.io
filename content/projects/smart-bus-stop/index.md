@@ -228,11 +228,6 @@ The Smart Bus Stop successfully demonstrates:
 - **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.
 - **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
 
-### Recognition
-#### **M5Stack Recognition** 
-The project was recognised and featured by [M5Stack](https://www.linkedin.com/posts/m5stack_projectspotlight-tof-pir-activity-7255070732387254273-CgfR/?utm_source=share&utm_medium=member_desktop) on their official **LinkedIn** page, highlighting the innovative use of their technology.
-
-
 #### **Technexus 2025**
 <div class="grid grid-cols-2 gap-4">
     <div class="flex flex-col items-center">
