@@ -147,6 +147,9 @@ The **Smart Bus Stop** addresses these challenges by:
   </div>
 
 ---
+## **Video Demonstration**
+{{< youtube NK4PLsqH9vE >}}
+---
 
 ## **My Role**
 As the team leader for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality. I distributed tasks effectively, ensuring that each team member contributed to their strengths. I led the design and development process, coding most of the system and overseeing the execution of key features. Additionally, I supported my peers in creating the real-life mock-up, designing the poster, recording and editing the video, and preparing the presentation slides, fostering a collaborative and productive team environment.
@@ -245,6 +248,7 @@ The Smart Bus Stop successfully demonstrates:
 
 **Presentation Slides**:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 **Poster**:
   <div style="text-align: center;">
