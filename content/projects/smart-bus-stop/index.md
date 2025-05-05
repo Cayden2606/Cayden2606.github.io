@@ -149,6 +149,7 @@ The **Smart Bus Stop** addresses these challenges by:
 ---
 ## **Video Demonstration**
 {{< youtube NK4PLsqH9vE >}}
+
 ---
 
 ## **My Role**
