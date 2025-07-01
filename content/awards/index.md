@@ -9,6 +9,10 @@ authors:
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Awards</div>
   <div class="grid grid-cols-2 gap-4">
+  <div class="flex flex-col items-center">
+      <img src="Award-Testimonial/EGDF20 Director_List Certificates 2024-2025 S21_SN14.png" alt="Director's List Year 2 Semester 2" class="w-32 h-auto">
+      <div class="text-sm text-gray-700 dark:text-gray-300">Director's List Year 2 Semester 2</div>
+    </div>
     <div class="flex flex-col items-center">
       <img src="Award-Testimonial/EGDF20 Director_List Certificates 2024-2025.png" alt="Director's List Year 2 Semester 1" class="w-32 h-auto">
       <div class="text-sm text-gray-700 dark:text-gray-300">Director's List Year 2 Semester 1</div>
