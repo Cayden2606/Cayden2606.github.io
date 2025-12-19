@@ -9,6 +9,25 @@ authors:
 
 ## Mid Autumn Festival - Pasir Ris East Youth Network
 
+<div class="grid grid-cols-2 gap-4">
+    <div class="flex flex-col items-center">
+      <img src="Pasir Ris East Youth Network/Mid Aut/MidAutumn1.jpg" alt="Pasir Ris East YN Mid Autumn Festival" class="w-32 h-auto">
+      <div class="text-sm text-gray-700 dark:text-gray-300">Mid Autumn Festival - Volunteering</div>
+    </div>
+    <div class="flex flex-col items-center">
+      <img src="Pasir Ris East Youth Network/Mid Aut/MidAutumn2.jpg" alt="Pasir Ris East YN Mid Autumn Festival" class="w-32 h-auto">
+      <div class="text-sm text-gray-700 dark:text-gray-300">Mid Autumn Festival - Volunteering</div>
+    </div>
+</div>
+
+- Collaborated with youth volunteers to support and execute large-scale community events.
+
+- Engaged over 600 residents during the Mid-Autumn Festival through various community activities.
+
+- Conducted outreach initiatives to provide social support and foster connections with the elderly.
+
+- Facilitated inclusive programs designed to strengthen neighborhood bonds and volunteer participation.
+
 ## Student Mentor Programme (NYP) 2024
 
 <div class="grid grid-cols-2 gap-4">
