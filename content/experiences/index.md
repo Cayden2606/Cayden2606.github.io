@@ -6,15 +6,18 @@ authors:
   - admin
 ---
 
+
+## Mid Autumn Festival - Pasir Ris East Youth Network
+
 ## Student Mentor Programme (NYP) 2024
 
 <div class="grid grid-cols-2 gap-4">
     <div class="flex flex-col items-center">
-      <img src="SM1.jpg" alt="Student Mentor Class" class="w-32 h-auto">
+      <img src="Student Mentor/SM1.jpg" alt="Student Mentor Class" class="w-32 h-auto">
       <div class="text-sm text-gray-700 dark:text-gray-300">Student Mentor 2024</div>
     </div>
     <div class="flex flex-col items-center">
-      <img src="SM2.jpg" alt="Student Mentor Class 1" class="w-32 h-auto">
+      <img src="Student Mentor/SM2.jpg" alt="Student Mentor Class 1" class="w-32 h-auto">
       <div class="text-sm text-gray-700 dark:text-gray-300">Stduent Mentor 2024</div>
     </div>
 </div>
@@ -31,11 +34,11 @@ authors:
 
 <div class="grid grid-cols-2 gap-4">
     <div class="flex flex-col items-center">
-      <img src="WRG1.jpg" alt="WRG Volunteers" class="w-32 h-auto">
+      <img src="World Robot Games/WRG1.jpg" alt="WRG Volunteers" class="w-32 h-auto">
       <div class="text-sm text-gray-700 dark:text-gray-300">WRG Volunteers 2024</div>
     </div>
     <div class="flex flex-col items-center">
-      <img src="WRG2.jpg" alt="WRG Volunteers 1" class="w-32 h-auto">
+      <img src="World Robot Games/WRG2.jpg" alt="WRG Volunteers 1" class="w-32 h-auto">
       <div class="text-sm text-gray-700 dark:text-gray-300">WRG Volunteers 2024</div>
     </div>
 </div>
