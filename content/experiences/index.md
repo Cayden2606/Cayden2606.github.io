@@ -41,7 +41,7 @@ authors:
     </div>
 </div>
 
-- Mentored a class of 20 incoming students, providing personalized guidance on academic and extracurricular pursuits to help them transition smoothly into the campus environment.
+- Mentored a class of 20 incoming students, providing personalised guidance on academic and extracurricular pursuits to help them transition smoothly into the campus environment.
 - Assisted in organizing and leading campus tours during the Freshmen Orientation (FMO), introducing students to key facilities and resources while fostering a sense of belonging.
 - Acted as a first point of contact for students, answering questions, addressing concerns, and creating a supportive community within the group.
 - Promoted team-building and collaboration through icebreaker activities and group discussions.
