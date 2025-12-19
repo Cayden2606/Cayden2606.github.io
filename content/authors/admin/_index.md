@@ -60,8 +60,10 @@ education:
     date_start: 2023-04-01
     date_end: 2026-03-01
     summary: |
-      - Cumulative GPA: 3.99
-      - Director’s List for 3 consecutive semesters
+      - Cumulative GPA: 4.0
+      - Director’s List for 5 consecutive semesters
+      - Edusave Merit Bursary 2025
+      - Edusave Skills Award 2025
       - Edusave Bursary Award: 2024
       - Specialised in Computer Engineering
       - Student Mentor
@@ -88,6 +90,22 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+work:
+  - position: Technical Service Engineer (Intern)
+    company_name: STYL Solutions Pte Ltd
+    company_url: 'https://styl.solutions/'
+    company_logo: 'https://styl.com.sg/wp-content/uploads/2024/10/styl_main_logo.svg'
+    date_start: 2025-09-08
+    date_end: 2026-02-21
+    summary: |2-
+      Responsibilities include:
+        - Supported the development and upkeep of secure payment and IoT systems deployed in public-facing environments, gaining exposure to reliability, safety, and security considerations in real-world operations.
+        - Applied systems thinking to improve operational workflows by designing small automation tools and dashboards to reduce manual errors and improve data visibility.
+        - Configured and maintained service management systems, including workflow automation and reporting, to support incident tracking, accountability, and continuous improvement.
+        - Assisted with hardware testing and maintenance of deployed devices, developing discipline in precision handling, fault identification, and adherence to technical procedures.
+        - Collaborated with cross-functional teams (operations, engineering, and support) to translate operational requirements into practical, testable solutions under time and resource constraints.
+        - Engaged with technical documentation and stakeholders to understand end-to-end system behaviour, from device-level components to user-facing services.
 # work:
 #   - position: Computer Engineer Intern
 #     company_name: Micron Technology®
@@ -134,7 +152,7 @@ skills:
         icon: "custom/html"
       - name: C#
         description: ''
-        percent: 75
+        percent: 70
         icon: "custom/CS"
       - name: PCB Design (Autodesk Eagle)
         description: ''
@@ -142,7 +160,7 @@ skills:
         icon: "custom/eagle"
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -170,7 +188,7 @@ skills:
         icon: "custom/tech"
       - name: Drawing
         description: ''
-        percent: 75
+        percent: 80
         icon: "custom/drawing"
 
 languages:
@@ -214,8 +232,9 @@ languages:
 
 ## About Me
 
-Hi, I'm Cayden Theseira, a dedicated student at Nanyang Polytechnic pursuing a Diploma in Electronic and Computer Engineering. With a cumulative GPA of 3.99 and recognition on the Director's List for three consecutive semesters, I strive for academic excellence while honing my skills in software development and computer engineering.
+Hi, I’m Cayden Theseira, a dedicated Year 3 student at Nanyang Polytechnic pursuing a Diploma in Electronic and Computer Engineering. With a cumulative GPA of 4.0 and recognition on the Director’s List for five consecutive semesters, I strive for academic excellence while honing my skills in software development and computer engineering.
 
 I have a strong passion for software development and a keen focus on computer engineering. My interests include IoT applications, user experience design, and crafting innovative solutions that drive sustainability. I thrive on tackling challenges and creating impactful projects that merge technology with real-world needs.
+
 <!-- 
 He has contributed to projects like ASS (Automatic Shutting System), an award-winning modular attachment for refrigeration doors that enhances energy efficiency, and the IoT Smart Bus Stop, a sustainable prototype with smart features. Additionally, he developed a Morse Code Translator, showcasing his ability to integrate software and hardware for practical applications. -->
