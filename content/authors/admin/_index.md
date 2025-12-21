@@ -99,13 +99,10 @@ work:
     date_start: 2025-09-08
     date_end: 2026-02-21
     summary: |2-
-      Responsibilities include:
-        - Supported the development and upkeep of secure payment and IoT systems deployed in public-facing environments, gaining exposure to reliability, safety, and security considerations in real-world operations.
-        - Applied systems thinking to improve operational workflows by designing small automation tools and dashboards to reduce manual errors and improve data visibility.
-        - Configured and maintained service management systems, including workflow automation and reporting, to support incident tracking, accountability, and continuous improvement.
-        - Assisted with hardware testing and maintenance of deployed devices, developing discipline in precision handling, fault identification, and adherence to technical procedures.
-        - Collaborated with cross-functional teams (operations, engineering, and support) to translate operational requirements into practical, testable solutions under time and resource constraints.
-        - Engaged with technical documentation and stakeholders to understand end-to-end system behaviour, from device-level components to user-facing services.
+      - Optimised Jira Service Management by developing automation workflows, JQL-filtered dashboards, and custom email templates to streamline incident tracking and reporting.
+      - Automated e-commerce fulfilment workflows using Python, HTML, and JavaScript to generate CSV, XLSX, and Word documents, reducing manual data entry for shipping and customer communications.
+      - Supported operations and maintenance of secure payment and IoT systems deployed in public-facing environments, gaining exposure to reliability, safety, and security considerations.
+      - Collaborated with operations, engineering, and support teams to translate operational requirements into practical, testable solutions.
 # work:
 #   - position: Computer Engineer Intern
 #     company_name: Micron Technology®

@@ -6,62 +6,64 @@ authors:
   - admin
 ---
 
+Community and campus initiatives I’ve supported through on-ground operations, mentoring, and participant engagement.
 
-## Mid Autumn Festival - Pasir Ris East Youth Network
+---
 
-<div class="grid grid-cols-2 gap-4">
-    <div class="flex flex-col items-center">
-      <img src="Pasir Ris East Youth Network/Mid Aut/MidAutumn1.jpg" alt="Pasir Ris East YN Mid Autumn Festival" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">Mid Autumn Festival - Volunteering</div>
-    </div>
-    <div class="flex flex-col items-center">
-      <img src="Pasir Ris East Youth Network/Mid Aut/MidAutumn2.jpg" alt="Pasir Ris East YN Mid Autumn Festival" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">Mid Autumn Festival - Volunteering</div>
-    </div>
+## Pasir Ris East Youth Network — Mid-Autumn Festival (4 Oct 2025)
+
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 my-4">
+  <div class="flex flex-col items-center">
+    <img src="Pasir Ris East Youth Network/Mid Aut/MidAutumn1.jpg" alt="Mid-Autumn Festival (Pasir Ris East Youth Network)" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-2">Community event support</div>
+  </div>
+  <div class="flex flex-col items-center">
+    <img src="Pasir Ris East Youth Network/Mid Aut/MidAutumn2.jpg" alt="Mid-Autumn Festival volunteering (Pasir Ris East Youth Network)" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-2">On-ground coordination</div>
+  </div>
 </div>
 
-- Collaborated with youth volunteers to support and execute large-scale community events.
+**Highlights**
+- Supported a one-day community event, engaging **600+ residents** through activity facilitation and on-ground coordination.
+- Assisted with **elderly outreach**, guest engagement, and crowd management.
 
-- Engaged over 600 residents during the Mid-Autumn Festival through various community activities.
+### Project Smile (Community Support)
+- Assisted event operations **as needed**, supporting game facilitation and prize distribution for children from lower-income families.
 
-- Conducted outreach initiatives to provide social support and foster connections with the elderly.
+---
 
-- Facilitated inclusive programs designed to strengthen neighborhood bonds and volunteer participation.
+## Student Mentor Programme (NYP) — 2024
 
-## Student Mentor Programme (NYP) 2024
-
-<div class="grid grid-cols-2 gap-4">
-    <div class="flex flex-col items-center">
-      <img src="Student Mentor/SM1.jpg" alt="Student Mentor Class" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">Student Mentor 2024</div>
-    </div>
-    <div class="flex flex-col items-center">
-      <img src="Student Mentor/SM2.jpg" alt="Student Mentor Class 1" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">Stduent Mentor 2024</div>
-    </div>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 my-4">
+  <div class="flex flex-col items-center">
+    <img src="Student Mentor/SM1.jpg" alt="Student Mentor Programme (NYP)" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-2">Orientation support</div>
+  </div>
+  <div class="flex flex-col items-center">
+    <img src="Student Mentor/SM2.jpg" alt="Student Mentor Programme (NYP)" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-2">Mentoring & guidance</div>
+  </div>
 </div>
 
-- Mentored a class of 20 incoming students, providing personalised guidance on academic and extracurricular pursuits to help them transition smoothly into the campus environment.
-- Assisted in organizing and leading campus tours during the Freshmen Orientation (FMO), introducing students to key facilities and resources while fostering a sense of belonging.
-- Acted as a first point of contact for students, answering questions, addressing concerns, and creating a supportive community within the group.
-- Promoted team-building and collaboration through icebreaker activities and group discussions.
-- Shared insights on effective time management, study strategies, and leveraging campus resources to maximize their academic and personal growth.
-<br>
+**Highlights**
+- Supported incoming students on the **first day of school**, providing guidance on academics and campus life.
+- Continued support through group chat check-ins, sharing notes, tips, and answering questions when needed.
 
+---
 
-## World Robot Games (WRG) 2024
+## World Robot Games (WRG) — 2024
 
-<div class="grid grid-cols-2 gap-4">
-    <div class="flex flex-col items-center">
-      <img src="World Robot Games/WRG1.jpg" alt="WRG Volunteers" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">WRG Volunteers 2024</div>
-    </div>
-    <div class="flex flex-col items-center">
-      <img src="World Robot Games/WRG2.jpg" alt="WRG Volunteers 1" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">WRG Volunteers 2024</div>
-    </div>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 my-4">
+  <div class="flex flex-col items-center">
+    <img src="World Robot Games/WRG1.jpg" alt="World Robot Games volunteers" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-2">Volunteer team</div>
+  </div>
+  <div class="flex flex-col items-center">
+    <img src="World Robot Games/WRG2.jpg" alt="World Robot Games event operations" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-2">Event operations</div>
+  </div>
 </div>
 
-- Tour Guide: Led a tour for over 20 international participants, primarily students, showcasing the engineering block, campus facilities, and student projects. Fostered engagement by answering questions and highlighting innovative initiatives while enhancing intercultural communication skills.
-- Game Referee: Managed and officiated various competition events, ensuring strict adherence to rules and maintaining fairness. Collaborated with organizers and participants to resolve disputes effectively, demonstrating leadership and impartiality.
-<br>
+**Highlights**
+- **Tour Guide:** Led tours for **20+ international participants**, showcasing facilities and student engineering projects.
+- **Game Referee:** Officiated competition rounds, ensuring rule adherence, fairness, and smooth event flow.
