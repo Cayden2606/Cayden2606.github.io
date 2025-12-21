@@ -6,10 +6,6 @@ authors:
   - admin
 ---
 
-Community and campus initiatives I’ve supported through on-ground operations, mentoring, and participant engagement.
-
----
-
 <h2 class="mt-6 mb-3">Pasir Ris East Youth Network (Volunteering)</h2>
 
 <h3 class="mt-6 mb-3">Project Smile (14 Dec 2025)</h3>
@@ -28,11 +24,6 @@ Community and campus initiatives I’ve supported through on-ground operations, 
 **Highlights**
 - Assisted event operations as needed, supporting game facilitation and engagement for children from lower-income families.
 
-**Highlights**
-- Supported a one-day community event, engaging **600+ residents** through activity facilitation and on-ground coordination.
-- Conducted **elderly outreach**, distributing **133+ Shopee vouchers** and providing on-site assistance.
-- Assisted with guest engagement and crowd management to ensure smooth event flow.
-
 <h3 class="mt-6 mb-2">Halloween Event (12 Oct 2025)</h3>
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
@@ -47,8 +38,9 @@ Community and campus initiatives I’ve supported through on-ground operations, 
 </div>
 
 **Highlights**
-- Supported event operations through **crowd control** and on-ground coordination.
-- Actively interacted with residents and participants to guide activities and maintain event safety.
+- Supported a one-day community event, engaging **600+ residents** through activity facilitation and on-ground coordination.
+- Conducted **elderly outreach**, distributing **133+ Shopee vouchers** and providing on-site assistance.
+- Assisted with guest engagement and crowd management to ensure smooth event flow.
 
 <h3 class="mt-4 mb-2">Mid-Autumn Festival (4 Oct 2025)</h3>
 
@@ -63,6 +55,10 @@ Community and campus initiatives I’ve supported through on-ground operations, 
   </div>
 </div>
 
+**Highlights**
+- Supported event operations through **crowd control** and on-ground coordination.
+- Actively interacted with residents and participants to guide activities and maintain event safety.
+
 ---
 
 <h2 class="mt-6 mb-3">Student Mentor Programme (NYP) — 2024</h2>
@@ -70,11 +66,11 @@ Community and campus initiatives I’ve supported through on-ground operations, 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
     <img src="Student Mentor/SM1.jpg" alt="Student Mentor Programme (NYP)" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Orientation support</div>
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Mentor group with my assigned class</div>
   </div>
   <div class="flex flex-col items-center">
     <img src="Student Mentor/SM2.jpg" alt="Student Mentor Programme (NYP)" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Mentoring and guidance</div>
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Freshmen Orientation (FMO) cohort-wide session</div>
   </div>
 </div>
 
@@ -89,11 +85,11 @@ Community and campus initiatives I’ve supported through on-ground operations, 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
     <img src="World Robot Games/WRG1.jpg" alt="World Robot Games volunteers" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Volunteer team</div>
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">WRG Volunteer team</div>
   </div>
   <div class="flex flex-col items-center">
     <img src="World Robot Games/WRG2.jpg" alt="World Robot Games event operations" class="w-full max-w-sm h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Event operations</div>
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">WRG Volunteer team</div>
   </div>
 </div>
 
