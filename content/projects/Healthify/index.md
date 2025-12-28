@@ -2,7 +2,7 @@
 ---
 title: Healthify
 summary: A Flutter (Material 3) healthcare app with AI-powered assistance, clinic discovery, and appointment booking.
-date: 2025-12-21
+date: 2025-08-14
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customise its options here.

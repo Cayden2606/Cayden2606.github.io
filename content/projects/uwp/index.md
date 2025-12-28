@@ -1,7 +1,7 @@
 ---
 title: Vantage Hub
 summary: A feature-rich Windows UWP smart hub application integrating live weather, alarm management, music and radio streaming, an AI chatbot, and a digital sketching canvas.
-date: 2024-12-21
+date: 2025-08-12
 
 image:
   caption: 'Image credit: **Cayden**'
