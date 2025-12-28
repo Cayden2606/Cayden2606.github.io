@@ -164,6 +164,19 @@ This enables generic CRUD workflows across many entities without hardcoding form
     <img src="Media/cli_update_confirmation.png" alt="Update confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">UPDATE: Preview + confirmation before commit</div>
   </div>
+
+  <!-- DELETE -->
+  <div>
+    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">DELETE</h4>
+    <div class="flex flex-col items-center">
+      <img src="Media/cli_delete_prompts.png" alt="Delete prompts table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
+    </div>
+  </div>
+  <div class="flex flex-col items-center">
+    <img src="Media/cli_delete_confirmation.png" alt="Delete confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">DELETE: Preview + confirmation before commit</div>
+  </div>
 </div>
 
 ---
