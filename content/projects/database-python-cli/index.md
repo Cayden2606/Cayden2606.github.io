@@ -123,58 +123,58 @@ This enables generic CRUD workflows across many entities without hardcoding form
 
   <!-- CRUD Menu -->
   <div>
-    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">CRUD Menu</h4>
+    <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">CRUD Menu</h3>
     <div class="flex flex-col items-center">
-      <img src="Media/cli_manage_airports_menu.png" alt="Manage table menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <img src="Media/cli_manage_airports_menu.png" alt="Manage table menu" class="w-full max-w-xs h-auto rounded-xl shadow-md" loading="lazy">
       <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">CRUD menu for an entity (e.g., Airports)</div>
     </div>
   </div>
 
   <!-- ADD (Create) -->
   <div>
-    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">ADD (Create)</h4>
+    <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">ADD (Create)</h3>
     <div class="flex flex-col items-center">
-      <img src="Media/cli_dynamic_prompts_add_airports.png" alt="Dynamic prompts for adding a record" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <img src="Media/cli_dynamic_prompts_add_airports.png" alt="Dynamic prompts for adding a record" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
       <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
     </div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/cli_insert_confirmation.png" alt="Insert confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_insert_confirmation.png" alt="Insert confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">ADD: Preview + confirmation before commit</div>
   </div>
 
   <!-- VIEW (Read) -->
   <div>
-    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">VIEW (Read)</h4>
+    <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">VIEW (Read)</h3>
     <div class="flex flex-col items-center">
-      <img src="Media/cli_view_table_legend.png" alt="View records output with legend" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <img src="Media/cli_view_table_legend.png" alt="View records output with legend" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
       <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Rich table output with PK/FK visual legend</div>
     </div>
   </div>
 
   <!-- UPDATE -->
   <div>
-    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">UPDATE</h4>
+    <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">UPDATE</h3>
     <div class="flex flex-col items-center">
-      <img src="Media/cli_update_prompts.png" alt="Update prompts table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <img src="Media/cli_update_prompts.png" alt="Update prompts table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
       <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
     </div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/cli_update_confirmation.png" alt="Update confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_update_confirmation.png" alt="Update confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">UPDATE: Preview + confirmation before commit</div>
   </div>
 
   <!-- DELETE -->
   <div>
-    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">DELETE</h4>
+    <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">DELETE</h3>
     <div class="flex flex-col items-center">
-      <img src="Media/cli_delete_prompts.png" alt="Delete prompts table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <img src="Media/cli_delete_prompts.png" alt="Delete prompts table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
       <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
     </div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/cli_delete_confirmation.png" alt="Delete confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_delete_confirmation.png" alt="Delete confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">DELETE: Preview + confirmation before commit</div>
   </div>
 </div>
@@ -203,11 +203,11 @@ and optionally sorted by the appropriate timestamp column:
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
-    <img src="Media/cli_view_options.png" alt="View options menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_view_options.png" alt="View options menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">View mode selection (All / Top 10 / Custom)</div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/cli_sort_menu.png" alt="Sort options menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_sort_menu.png" alt="Sort options menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Sorting options (default / ASC / DESC by timestamp)</div>
   </div>
 </div>
@@ -221,11 +221,11 @@ AuditLog is viewable only by Superadmin and cannot be modified through normal wo
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
-    <img src="Media/cli_audit_log_rich.png" alt="Audit log table (Rich output)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_audit_log_rich.png" alt="Audit log table (Rich output)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">AuditLog output showing CRUD actions with timestamps</div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/cli_adminusers_table.png" alt="AdminUsers table view" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/cli_adminusers_table.png" alt="AdminUsers table view" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">AdminUsers table (hashed passwords + role column)</div>
   </div>
 </div>
