@@ -276,6 +276,16 @@ The CLI loads pre-generated ASCII frames from a text file (e.g., `frames.txt`) a
 - Frames are stored as **newline-separated blocks**, making them easy to parse and play  
 - Frames were generated using a separate utility tool (see Appendix A)
 
+<div class="flex flex-col items-center mt-4 mb-6">
+  <div style="margin-bottom: 10px !important">
+    <video autoplay loop muted playsinline class="w-full max-w-lg h-auto rounded-xl shadow-md" style="margin: 0 0 0 0 !important">
+      <source src="Media/intro_screen_animation.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">ASCII animation intro sequence</div>
+</div>
+
 ---
 
 ## **Security & Access Control**
