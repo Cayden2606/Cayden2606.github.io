@@ -55,13 +55,13 @@ FlightOps solves this by combining a **normalized MySQL schema**, **referential 
 ### **Before vs After ERD**
 The project begins with an unnormalized/early-stage ERD and progresses to a fully normalized 3NF schema.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
+<div class="flex flex-col gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
-    <img src="Media/erd_before_normalisation_1nf.png" alt="ERD Before Normalisation (1NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/erd_before_normalisation_1nf.jpg" alt="ERD Before Normalisation (1NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Figure: ERD before normalisation (1NF stage)</div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/erd_after_normalisation_3nf.png" alt="Normalised ERD (3NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/erd_after_normalisation_3nf.jpg" alt="Normalised ERD (3NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Figure: Normalised ERD (3NF)</div>
   </div>
 </div>
@@ -193,6 +193,16 @@ AuditLog is viewable only by Superadmin and cannot be modified through normal wo
 
 ---
 
+### **6) ASCII Animation Splash Screen (Intro Sequence)**
+To enhance UX, the program plays an **animated ASCII splash** at startup (purely cosmetic).  
+The CLI loads pre-generated ASCII frames from a text file (e.g., `frames.txt`) and renders them in sequence in the terminal.
+
+- The animation **does not affect** database functionality or CRUD logic  
+- Frames are stored as **newline-separated blocks**, making them easy to parse and play  
+- Frames were generated using a separate utility tool (see Appendix A)
+
+---
+
 ## **Security & Access Control**
 - Admin authentication uses **SHA-256 hashing** (`hashlib.sha256`)  
 - **LastLogin timestamp** is updated on successful login  
@@ -262,3 +272,53 @@ This project demonstrates strong competency in:
 * **Security:** hashed credentials + role separation + last login tracking
 * **Auditability:** structured logging of operational changes with timestamps + attribution
 * **UX polish:** a readable, guided terminal workflow built with Rich
+
+---
+
+## **Appendix A — ASCII Animation Splash Screen**
+
+To enhance user experience, an ASCII animation is played at the start of the program (referenced under **Special Features → Intro Sequence** in the report).
+This animation was generated using a separate Python utility hosted here:
+
+<a href="https://github.com/Cayden2606/gif-2-ascii" target="_blank" rel="noopener">
+  https://github.com/Cayden2606/gif-2-ascii
+</a>
+
+The tool converts a `.gif` into ASCII frames stored in a `frames.txt` file (or equivalent frames file).
+The animation is **purely cosmetic** and does not affect the functionality of the database application.
+
+<details>
+  <summary><b>Supporting Tool: GIF → ASCII Animation Converter (Overview)</b></summary>
+
+  <br>
+
+  <div class="text-sm text-gray-700 dark:text-gray-300">
+    A lightweight Python utility that converts animated <code>.gif</code> files into animated ASCII art for terminal display.
+    It can output frames to <code>frames.txt</code> and includes a simple terminal player.
+  </div>
+
+  <br>
+
+<b>Key capabilities</b>
+
+  <ul>
+    <li>Converts GIFs to ASCII while preserving aspect ratio</li>
+    <li>Supports standard and multithreaded conversion modes</li>
+    <li>Outputs to <code>frames.txt</code> and optionally copies to clipboard</li>
+    <li>Includes a terminal animation player (<code>ascii_player.py</code>)</li>
+  </ul>
+
+<b>How frames are stored</b>
+
+  <ul>
+    <li>Each ASCII frame is separated by <b>two newlines</b> (<code>\n\n</code>)</li>
+    <li>This makes parsing trivial: split by double-newline and render sequentially</li>
+  </ul>
+
+<b>Quickstart (tool repo)</b>
+
+  <pre><code class="language-bash">pip install pillow pyperclip
+python3 converter.py
+python3 ascii_player.py</code></pre>
+
+</details>
