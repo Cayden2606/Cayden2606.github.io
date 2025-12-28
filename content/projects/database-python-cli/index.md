@@ -28,7 +28,8 @@ tags:
 ---
 
 ## **Overview**
-**FlightOps Manager** is a **Python + MySQL CLI system** designed to simulate core airport operational workflows in a realistic aviation domain.  
+**FlightOps Manager** is a **Python + MySQL CLI system** designed to simulate core airport operational workflows in a realistic aviation domain.
+
 Built for **Database Design & Applications (EGE311)**, it demonstrates **3NF relational modelling**, enforced integrity constraints, and a production-inspired operational layer with:
 
 - **Role-based access control** (Front Desk / Admin / Superadmin)  
@@ -40,8 +41,8 @@ Built for **Database Design & Applications (EGE311)**, it demonstrates **3NF rel
 
 ## **Problem**
 Airport operations contain tightly linked data: **flights, aircraft assignment, crew scheduling, passenger identity, bookings, and movement records (arrivals/departures)**.  
-Spreadsheet workflows struggle with:
 
+Spreadsheet workflows struggle with:
 - **Integrity** (invalid references, duplicated IDs, broken relationships)  
 - **Security** (everyone can edit everything)  
 - **Traceability** (no accountability of who changed what and when)
@@ -57,11 +58,11 @@ The project begins with an unnormalized/early-stage ERD and progresses to a full
 
 <div class="flex flex-col gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
-    <img src="Media/erd_before_normalisation_1nf.jpg" alt="ERD Before Normalisation (1NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/erd_before_normalisation_1nf.png" alt="ERD Before Normalisation (1NF)" class="w-full max-w-xs h-auto rounded-xl shadow-md" loading="lazy">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Figure: ERD before normalisation (1NF stage)</div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/erd_after_normalisation_3nf.jpg" alt="Normalised ERD (3NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <img src="Media/erd_after_normalisation_3nf.png" alt="Normalised ERD (3NF)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
     <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Figure: Normalised ERD (3NF)</div>
   </div>
 </div>
