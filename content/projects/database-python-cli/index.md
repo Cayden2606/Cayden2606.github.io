@@ -251,7 +251,7 @@ Every action generates an audit record containing:
 - `Username`, `TableName`, `ActionType`, `Details`, `Timestamp`  
 AuditLog is viewable only by Superadmin and cannot be modified through normal workflows.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
+<div class="flex flex-col gap-6 mt-2 mb-6">
   <div class="flex flex-col items-center">
     <div style="margin-bottom: 10px !important">
       <img src="Media/cli_audit_log_rich.png" alt="Audit log table (Rich output)" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy" style="margin: 0 0 0 0 !important">
@@ -365,8 +365,9 @@ This project demonstrates strong competency in:
 To enhance user experience, an ASCII animation is played at the start of the program (referenced under **Special Features → Intro Sequence** in the report).
 This animation was generated using a separate Python utility hosted here:
 
-<a href="https://github.com/Cayden2606/gif-2-ascii" target="_blank" rel="noopener">
-  https://github.com/Cayden2606/gif-2-ascii
+<a href="https://github.com/Cayden2606/gif-2-ascii" style="display:flex;align-items:center;gap:10px;" target="_blank" rel="noopener">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width:28px;height:28px;margin: 0 0 0 0 !important" loading="lazy">
+  GitHub Repository
 </a>
 
 The tool converts a `.gif` into ASCII frames stored in a `frames.txt` file (or equivalent frames file).
