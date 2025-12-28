@@ -119,25 +119,50 @@ The CLI introspects table structure at runtime using:
 - `information_schema.KEY_COLUMN_USAGE` for FK references  
 This enables generic CRUD workflows across many entities without hardcoding forms.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
-  <div class="flex flex-col items-center">
-    <img src="Media/cli_manage_airports_menu.png" alt="Manage table menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">CRUD menu for an entity (e.g., Airports)</div>
-  </div>
-  <div class="flex flex-col items-center">
-    <img src="Media/cli_dynamic_prompts_add_airports.png" alt="Dynamic prompts for adding a record" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
-  </div>
-</div>
+<div class="flex flex-col gap-8 mt-2 mb-6">
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-2 mb-6">
+  <!-- CRUD Menu -->
+  <div>
+    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">CRUD Menu</h4>
+    <div class="flex flex-col items-center">
+      <img src="Media/cli_manage_airports_menu.png" alt="Manage table menu" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">CRUD menu for an entity (e.g., Airports)</div>
+    </div>
+  </div>
+
+  <!-- ADD (Create) -->
+  <div>
+    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">ADD (Create)</h4>
+    <div class="flex flex-col items-center">
+      <img src="Media/cli_dynamic_prompts_add_airports.png" alt="Dynamic prompts for adding a record" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
+    </div>
+  </div>
   <div class="flex flex-col items-center">
     <img src="Media/cli_insert_confirmation.png" alt="Insert confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Insert preview + confirmation before commit</div>
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">ADD: Preview + confirmation before commit</div>
+  </div>
+
+  <!-- VIEW (Read) -->
+  <div>
+    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">VIEW (Read)</h4>
+    <div class="flex flex-col items-center">
+      <img src="Media/cli_view_table_legend.png" alt="View records output with legend" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Rich table output with PK/FK visual legend</div>
+    </div>
+  </div>
+
+  <!-- UPDATE -->
+  <div>
+    <h4 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-3">UPDATE</h4>
+    <div class="flex flex-col items-center">
+      <img src="Media/cli_update_prompts.png" alt="Update prompts table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+      <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Schema-driven prompts with datatype constraints</div>
+    </div>
   </div>
   <div class="flex flex-col items-center">
-    <img src="Media/cli_view_table_legend.png" alt="View records output with legend" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
-    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">Rich table output with PK/FK visual legend</div>
+    <img src="Media/cli_update_confirmation.png" alt="Update confirmation table" class="w-full max-w-lg h-auto rounded-xl shadow-md" loading="lazy">
+    <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">UPDATE: Preview + confirmation before commit</div>
   </div>
 </div>
 
