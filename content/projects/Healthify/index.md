@@ -111,7 +111,7 @@ Healthify consolidates these steps into a single, user-friendly workflow.
 - **Theme customization**:
   - Dark/Light mode toggle with persistence
   - 15+ color palette options for theme personalization
-- **Language support** — UI prepared for English, 中文, Bahasa Melayu, தமிழ்
+- **Language support** — English (currently supported)
 - **Firebase sync** — all preferences stored and synced across devices
 
 ### **🚶 Health Tracking**
@@ -382,67 +382,67 @@ Healthify demonstrates a practical integration of **AI**, **maps**, and **secure
 ## **Screenshots** 📱
 
 <p align="center">
-  <img src="screenshots/app_icon.png" alt="App Icon" width="120" style="border-radius: 24px;">
+  <img src="screenshots/app_icon.png" alt="App Icon" style="width: 120px; max-width: 120px; border-radius: 24px;">
 </p>
 
 ### **Onboarding**
 <p align="center">
-  <img src="screenshots/introScreen1.png" alt="Intro 1" width="200">
-  <img src="screenshots/introScreen2.png" alt="Intro 2" width="200">
-  <img src="screenshots/introScreen3.png" alt="Intro 3" width="200">
-  <img src="screenshots/introScreen4.png" alt="Intro 4" width="200">
+  <img src="screenshots/introScreen1.png" alt="Intro 1" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/introScreen2.png" alt="Intro 2" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/introScreen3.png" alt="Intro 3" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/introScreen4.png" alt="Intro 4" style="width: 23%; max-width: 200px; margin: 5px;">
 </p>
 
 ### **Authentication & Home**
 <p align="center">
-  <img src="screenshots/loginscreen.PNG" alt="Login" width="200">
-  <img src="screenshots/HomeScreen.PNG" alt="Home" width="200">
-  <img src="screenshots/lightpurpleHome.PNG" alt="Home Light Purple Theme" width="200">
-  <img src="screenshots/DarkRedishHome.PNG" alt="Home Dark Reddish Theme" width="200">
+  <img src="screenshots/loginscreen.PNG" alt="Login" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/HomeScreen.PNG" alt="Home" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/lightpurpleHome.PNG" alt="Home Light Purple Theme" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/DarkRedishHome.PNG" alt="Home Dark Reddish Theme" style="width: 23%; max-width: 200px; margin: 5px;">
 </p>
 
 ### **AI Health Assistant**
 <p align="center">
-  <img src="screenshots/AIChat.PNG" alt="AI Chat" width="200">
-  <img src="screenshots/AIChatWithPicture.PNG" alt="AI Image Analysis" width="200">
+  <img src="screenshots/AIChat.PNG" alt="AI Chat" style="width: 45%; max-width: 250px; margin: 10px;">
+  <img src="screenshots/AIChatWithPicture.PNG" alt="AI Image Analysis" style="width: 45%; max-width: 250px; margin: 10px;">
 </p>
 
 ### **Clinic Discovery**
 <p align="center">
-  <img src="screenshots/ClinicMapRegions.PNG" alt="Regions" width="200">
-  <img src="screenshots/ClinicsMapNearby.png" alt="Nearby" width="200">
-  <img src="screenshots/ClinicMapSaved.PNG" alt="Saved" width="200">
-  <img src="screenshots/ClinicMapOpen.PNG" alt="Open" width="200">
+  <img src="screenshots/ClinicMapRegions.PNG" alt="Regions" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/ClinicsMapNearby.png" alt="Nearby" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/ClinicMapSaved.PNG" alt="Saved" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/ClinicMapOpen.PNG" alt="Open" style="width: 23%; max-width: 200px; margin: 5px;">
 </p>
 
 ### **Appointment Booking**
 <p align="center">
-  <img src="screenshots/makeAppointmentScreen1.png" alt="Select Category" width="200">
-  <img src="screenshots/makeAppointmentScreen2.png" alt="Select Service" width="200">
-  <img src="screenshots/makeAppointmentScreen3.png" alt="Select Date" width="200">
-  <img src="screenshots/makeAppointmentScreen4.png" alt="Select Time" width="200">
+  <img src="screenshots/makeAppointmentScreen1.png" alt="Select Category" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/makeAppointmentScreen2.png" alt="Select Service" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/makeAppointmentScreen3.png" alt="Select Date" style="width: 23%; max-width: 200px; margin: 5px;">
+  <img src="screenshots/makeAppointmentScreen4.png" alt="Select Time" style="width: 23%; max-width: 200px; margin: 5px;">
 </p>
 
 ### **Appointments Management**
 <p align="center">
-  <img src="screenshots/UpcomingAppointment.png" alt="Upcoming" width="200">
-  <img src="screenshots/ViewLocationOfAppointmentOnGoogleMapsOrHealthify.PNG" alt="Location" width="200">
-  <img src="screenshots/EditUpcommingAppointment.PNG" alt="Edit Appointment" width="200">
-  <img src="screenshots/PassedAppointment.png" alt="Passed" width="200">
-  <img src="screenshots/EmailNotficationResend.png" alt="Email Notification" width="200">
+  <img src="screenshots/UpcomingAppointment.png" alt="Upcoming" style="width: 18%; max-width: 180px; margin: 5px;">
+  <img src="screenshots/ViewLocationOfAppointmentOnGoogleMapsOrHealthify.PNG" alt="Location" style="width: 18%; max-width: 180px; margin: 5px;">
+  <img src="screenshots/EditUpcommingAppointment.PNG" alt="Edit Appointment" style="width: 18%; max-width: 180px; margin: 5px;">
+  <img src="screenshots/PassedAppointment.png" alt="Passed" style="width: 18%; max-width: 180px; margin: 5px;">
+  <img src="screenshots/EmailNotficationResend.png" alt="Email Notification" style="width: 18%; max-width: 180px; margin: 5px;">
 </p>
 
 ### **Settings & Profile**
 <p align="center">
-  <img src="screenshots/SettingsPage.png" alt="Settings" width="200">
-  <img src="screenshots/SettingsPageDarkMode.png" alt="Dark Mode" width="200">
-  <img src="screenshots/SettingsPageThemesOptions.png" alt="Themes" width="200">
+  <img src="screenshots/SettingsPage.png" alt="Settings" style="width: 30%; max-width: 220px; margin: 10px;">
+  <img src="screenshots/SettingsPageDarkMode.png" alt="Dark Mode" style="width: 30%; max-width: 220px; margin: 10px;">
+  <img src="screenshots/SettingsPageThemesOptions.png" alt="Themes" style="width: 30%; max-width: 220px; margin: 10px;">
 </p>
 
 ### **User Profile**
 <p align="center">
-  <img src="screenshots/UpdateUserProfilePage.png" alt="Profile" width="200">
-  <img src="screenshots/UpdateUserPhoneNumber.png" alt="Phone Input" width="200">
+  <img src="screenshots/UpdateUserProfilePage.png" alt="Profile" style="width: 45%; max-width: 250px; margin: 10px;">
+  <img src="screenshots/UpdateUserPhoneNumber.png" alt="Phone Input" style="width: 45%; max-width: 250px; margin: 10px;">
 </p>
 
 ---
