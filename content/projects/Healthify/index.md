@@ -381,68 +381,68 @@ Healthify demonstrates a practical integration of **AI**, **maps**, and **secure
 
 ## **Screenshots** 📱
 
-<p align="center">
-  <img src="screenshots/app_icon.png" alt="App Icon" style="width: 120px; max-width: 120px; border-radius: 24px;">
-</p>
+<div style="text-align: center;">
+  <img src="screenshots/app_icon.png" alt="App Icon" style="width: 120px; border-radius: 24px;">
+</div>
 
 ### **Onboarding**
-<p align="center">
-  <img src="screenshots/introScreen1.png" alt="Intro 1" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/introScreen2.png" alt="Intro 2" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/introScreen3.png" alt="Intro 3" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/introScreen4.png" alt="Intro 4" style="width: 23%; max-width: 200px; margin: 5px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="screenshots/introScreen1.png" alt="Intro 1" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/introScreen2.png" alt="Intro 2" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/introScreen3.png" alt="Intro 3" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/introScreen4.png" alt="Intro 4" style="flex: 1 1 150px; max-width: 200px;">
+</div>
 
 ### **Authentication & Home**
-<p align="center">
-  <img src="screenshots/loginscreen.PNG" alt="Login" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/HomeScreen.PNG" alt="Home" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/lightpurpleHome.PNG" alt="Home Light Purple Theme" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/DarkRedishHome.PNG" alt="Home Dark Reddish Theme" style="width: 23%; max-width: 200px; margin: 5px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="screenshots/loginscreen.PNG" alt="Login" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/HomeScreen.PNG" alt="Home" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/lightpurpleHome.PNG" alt="Home Light Purple Theme" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/DarkRedishHome.PNG" alt="Home Dark Reddish Theme" style="flex: 1 1 150px; max-width: 200px;">
+</div>
 
 ### **AI Health Assistant**
-<p align="center">
-  <img src="screenshots/AIChat.PNG" alt="AI Chat" style="width: 45%; max-width: 250px; margin: 10px;">
-  <img src="screenshots/AIChatWithPicture.PNG" alt="AI Image Analysis" style="width: 45%; max-width: 250px; margin: 10px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="screenshots/AIChat.PNG" alt="AI Chat" style="flex: 1 1 250px; max-width: 300px;">
+  <img src="screenshots/AIChatWithPicture.PNG" alt="AI Image Analysis" style="flex: 1 1 250px; max-width: 300px;">
+</div>
 
 ### **Clinic Discovery**
-<p align="center">
-  <img src="screenshots/ClinicMapRegions.PNG" alt="Regions" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/ClinicsMapNearby.png" alt="Nearby" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/ClinicMapSaved.PNG" alt="Saved" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/ClinicMapOpen.PNG" alt="Open" style="width: 23%; max-width: 200px; margin: 5px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="screenshots/ClinicMapRegions.PNG" alt="Regions" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/ClinicsMapNearby.png" alt="Nearby" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/ClinicMapSaved.PNG" alt="Saved" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/ClinicMapOpen.PNG" alt="Open" style="flex: 1 1 150px; max-width: 200px;">
+</div>
 
 ### **Appointment Booking**
-<p align="center">
-  <img src="screenshots/makeAppointmentScreen1.png" alt="Select Category" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/makeAppointmentScreen2.png" alt="Select Service" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/makeAppointmentScreen3.png" alt="Select Date" style="width: 23%; max-width: 200px; margin: 5px;">
-  <img src="screenshots/makeAppointmentScreen4.png" alt="Select Time" style="width: 23%; max-width: 200px; margin: 5px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="screenshots/makeAppointmentScreen1.png" alt="Select Category" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/makeAppointmentScreen2.png" alt="Select Service" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/makeAppointmentScreen3.png" alt="Select Date" style="flex: 1 1 150px; max-width: 200px;">
+  <img src="screenshots/makeAppointmentScreen4.png" alt="Select Time" style="flex: 1 1 150px; max-width: 200px;">
+</div>
 
 ### **Appointments Management**
-<p align="center">
-  <img src="screenshots/UpcomingAppointment.png" alt="Upcoming" style="width: 18%; max-width: 180px; margin: 5px;">
-  <img src="screenshots/ViewLocationOfAppointmentOnGoogleMapsOrHealthify.PNG" alt="Location" style="width: 18%; max-width: 180px; margin: 5px;">
-  <img src="screenshots/EditUpcommingAppointment.PNG" alt="Edit Appointment" style="width: 18%; max-width: 180px; margin: 5px;">
-  <img src="screenshots/PassedAppointment.png" alt="Passed" style="width: 18%; max-width: 180px; margin: 5px;">
-  <img src="screenshots/EmailNotficationResend.png" alt="Email Notification" style="width: 18%; max-width: 180px; margin: 5px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="screenshots/UpcomingAppointment.png" alt="Upcoming" style="flex: 1 1 120px; max-width: 180px;">
+  <img src="screenshots/ViewLocationOfAppointmentOnGoogleMapsOrHealthify.PNG" alt="Location" style="flex: 1 1 120px; max-width: 180px;">
+  <img src="screenshots/EditUpcommingAppointment.PNG" alt="Edit Appointment" style="flex: 1 1 120px; max-width: 180px;">
+  <img src="screenshots/PassedAppointment.png" alt="Passed" style="flex: 1 1 120px; max-width: 180px;">
+  <img src="screenshots/EmailNotficationResend.png" alt="Email Notification" style="flex: 1 1 120px; max-width: 180px;">
+</div>
 
 ### **Settings & Profile**
-<p align="center">
-  <img src="screenshots/SettingsPage.png" alt="Settings" style="width: 30%; max-width: 220px; margin: 10px;">
-  <img src="screenshots/SettingsPageDarkMode.png" alt="Dark Mode" style="width: 30%; max-width: 220px; margin: 10px;">
-  <img src="screenshots/SettingsPageThemesOptions.png" alt="Themes" style="width: 30%; max-width: 220px; margin: 10px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="screenshots/SettingsPage.png" alt="Settings" style="flex: 1 1 200px; max-width: 220px;">
+  <img src="screenshots/SettingsPageDarkMode.png" alt="Dark Mode" style="flex: 1 1 200px; max-width: 220px;">
+  <img src="screenshots/SettingsPageThemesOptions.png" alt="Themes" style="flex: 1 1 200px; max-width: 220px;">
+</div>
 
 ### **User Profile**
-<p align="center">
-  <img src="screenshots/UpdateUserProfilePage.png" alt="Profile" style="width: 45%; max-width: 250px; margin: 10px;">
-  <img src="screenshots/UpdateUserPhoneNumber.png" alt="Phone Input" style="width: 45%; max-width: 250px; margin: 10px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="screenshots/UpdateUserProfilePage.png" alt="Profile" style="flex: 1 1 250px; max-width: 300px;">
+  <img src="screenshots/UpdateUserPhoneNumber.png" alt="Phone Input" style="flex: 1 1 250px; max-width: 300px;">
+</div>
 
 ---
