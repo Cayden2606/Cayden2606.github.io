@@ -51,20 +51,20 @@ tags:
 
 ### Media Hub - Music Player
 <p>
-  <img src="Media/MediaHub-Music.png" alt="Music" width="400">
-  <img src="Media/MediaHub-Music-Expand.png" alt="Music Expanded" width="400">
+  <img src="Media/MediaHub-Music.png" alt="Music" width="600">
+  <img src="Media/MediaHub-Music-Expand.png" alt="Music Expanded" width="600">
 </p>
 
 ### Media Hub - Radio
 <p>
-  <img src="Media/MediaHub-Radio.png" alt="Radio" width="400">
-  <img src="Media/MediaHub-Radio-Expand.png" alt="Radio Expanded" width="400">
+  <img src="Media/MediaHub-Radio.png" alt="Radio" width="600">
+  <img src="Media/MediaHub-Radio-Expand.png" alt="Radio Expanded" width="600">
 </p>
 
 ### Media Hub - Video Player
 <p>
-  <img src="Media/MediaHub-Video.png" alt="Video" width="400">
-  <img src="Media/MediaHub-Video-Expand.png" alt="Video Expanded" width="400">
+  <img src="Media/MediaHub-Video.png" alt="Video" width="600">
+  <img src="Media/MediaHub-Video-Expand.png" alt="Video Expanded" width="600">
 </p>
 
 ---
