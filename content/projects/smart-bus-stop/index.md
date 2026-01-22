@@ -29,27 +29,125 @@ tags:
   GitHub Repository for Smart Bus Stop
 </a>
 
----
+<!-- ## Story
 
-## **🏆 Awards & Recognition**
+Public transportation is vital to sustainable cities but faces challenges like unreliable schedules, weather exposure, and limited real-time updates. The **Smart Bus Stop** combines IoT, renewable energy, and user-focused design to overcome these issues, modernising transit infrastructure.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
+## Objectives
+
+- **Real-Time Information**: Equip commuters with live bus tracking and arrival updates.
+- **Sustainability**: Use solar energy for powering lights, displays, and utilities.
+- **Enhanced User Experience**: Include interactive, weatherproof screens and ergonomic seating.
+
+## Research Insights
+
+- **Real-Time Updates**: 75% of commuters prefer live transit data for better journey planning.
+- **Eco-Friendly Design**: Solar-powered systems reduce carbon footprints and costs.
+- **Accessibility**: Voice support and braille features ensure inclusivity for all users.
+
+## Project Overview
+
+<div style="text-align: center;">
+  <img src="Media/busprototype.jpeg" alt="Wiring Diagram" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
+</div>
+
+## Key Features:
+
+1. **Real-Time Tracking**: Displays bus locations and arrival times using GPS and cloud integration.
+2. **Solar Power**: Provides sustainable energy for lighting, displays, and charging ports.
+3. **Interactive Displays**: Offers route information, nearby services, and emergency contacts.
+4. **Passenger Comfort**: Includes weatherproof shelters, ergonomic seating, and USB charging.
+5. **Accessibility**: Voice-enabled announcements and braille support for differently-abled users.
+
+## Video Demonstration  
+{{< youtube nPJaNwRcq4I >}}
+
+## Presentation Slides
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Poster
+<div style="text-align: center;">
+  <img src="poster.png" alt="poster" style="max-width: 100%; height: auto; padding: 10px;">
+</div>
+
+## Planning Stages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
-    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+    <img src="Media/tinkercad.png" alt="Tinkercad Design" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Tinkercad Design</div>
   </div>
   <div style="text-align: center;">
-    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/busmodel.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">Design Overview</div>
+  </div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/BBBWs.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">BeagleBone Black Wireless with clicks</div>
   </div>
 </div>
 
-- 🥈 **2nd Place Overall** at **Technexus 2025**
-- 🥇 **1st Place Most Popular** — voted by students and attendees
+
+## Lighting System
+
+- **Modified LED Strip**: Uses recycled light filters from a Huawei Nova 3i screen.
+- **PWM Control**: Adjusts brightness dynamically via a BJT amplifier circuit.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="text-align: center;">
+    <img src="Media/Lighting.jpeg" alt="Modified LED Strip" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Modified LED Strip</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="Media/Circuit.jpg" alt="BJT Amplifier Circuit" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">BJT Amplifier Circuit</div>
+  </div>
+  <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/PWM.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
+  </div>
+    <div style="text-align: center;">
+    <video autoplay loop muted style="max-width: 100%; height: auto;">
+      <source src="Media/PWM2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: small; margin-top: -10px;">PWM Demostration</div>
+  </div>
+
+## Wiring and System Integration
+
+The wiring system connects the LED strip, PWM controller, BJT amplifier and other Clicks for seamless operation.
+
+<div style="text-align: center;">
+  <img src="Media/wiring.jpg" alt="Wiring Diagram" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+</div>
+
+
+-->
+
+## **Project Scope**
+Public transportation is vital to sustainable cities but faces challenges such as unreliable schedules, weather exposure, and limited real-time updates. This project aims to modernise transit infrastructure by integrating IoT, renewable energy, and user-focused design.
+
+The **Smart Bus Stop** addresses these challenges by:
+- Providing **real-time information** to improve commuter experience.
+- Promoting **sustainability** through solar-powered systems.
+- Enhancing **user experience** with accessible and ergonomic designs.
+<div style="text-align: center;">
+  <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
+</div>
 
 ---
-
-## **Video Demonstration** 🎬
+## **Video Demonstration**
 {{< youtube NK4PLsqH9vE >}}
 
 ---
@@ -65,25 +163,6 @@ tags:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="Admin.png" alt="Admin Panel" style="flex: 1 1 250px; max-width: 100%; margin-top: 0; margin-bottom: 0;">
 </div>
-
----
-
-## **The Prototype** 🚏
-
-<div style="text-align: center;">
-  <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
-</div>
-
----
-
-## **Project Scope**
-Public transportation is vital to sustainable cities but faces challenges such as unreliable schedules, weather exposure, and limited real-time updates. This project aims to modernise transit infrastructure by integrating IoT, renewable energy, and user-focused design.
-
-The **Smart Bus Stop** addresses these challenges by:
-- Providing **real-time information** to improve commuter experience.
-- Promoting **sustainability** through solar-powered systems.
-- Enhancing **user experience** with accessible and ergonomic designs.
 
 ---
 
@@ -170,17 +249,30 @@ The Smart Bus Stop successfully demonstrates:
 - **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.
 - **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
 
----
+### **🏆 Technexus 2025**
 
-## **Presentation Materials** 📊
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
+  <div style="text-align: center;">
+    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+</div>
+
+- Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
+- 🥈 **2nd Place Overall** and 🥇 **1st Place Most Popular**, voted by students and attendees.
 
 **Presentation Slides**:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 **Poster**:
-<div style="text-align: center;">
-  <img src="poster.png" alt="Poster" style="max-width: 100%; height: auto; padding: 10px;">
-</div>
+  <div style="text-align: center;">
+    <img src="poster.png" alt="Poster" style="max-width: 100%; height: auto; padding: 10px;">
+  </div>
 
 ---
 
