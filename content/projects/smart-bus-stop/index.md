@@ -145,30 +145,14 @@ The **Smart Bus Stop** addresses these challenges by:
   <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
   <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
 </div>
+<div style="text-align: center;">
+  <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+</div>
 
-
----
 ---
 ## **Video Demonstration**
 {{< youtube NK4PLsqH9vE >}}
-
----
-
-### **🏆 Technexus 2025**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
-  <div style="text-align: center;">
-    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
-  </div>
-</div>
-
-- Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
-- 🥈 **2nd Place Overall** and 🥇 **1st Place Most Popular**, voted by students and attendees.
 
 ---
 
@@ -279,6 +263,24 @@ The Smart Bus Stop successfully demonstrates:
   <div style="text-align: center;">
     <img src="poster.png" alt="Poster" style="max-width: 100%; height: auto; padding: 10px;">
   </div>
+
+---
+
+### **🏆 Technexus 2025**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
+  <div style="text-align: center;">
+    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+</div>
+
+- Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
+- 🥈 **2nd Place Overall** and 🥇 **1st Place Most Popular**, voted by students and attendees.
 
 ---
 
