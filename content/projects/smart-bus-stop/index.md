@@ -24,8 +24,8 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-<a href="https://github.com/Cayden2606/Smart-Bus-Stop" style="display: flex; align-items: center;" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 30px; margin-right: 10px;">
+<a href="https://github.com/Cayden2606/Smart-Bus-Stop" style="display:flex;align-items:center;gap:10px;" target="_blank" rel="noopener">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width:28px;height:28px;">
   GitHub Repository for Smart Bus Stop
 </a>
 
@@ -152,12 +152,29 @@ The **Smart Bus Stop** addresses these challenges by:
 
 ---
 
+## **Screenshots** 📱
+
+### **Dashboard**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="Dashboard.png" alt="Dashboard" style="flex: 1 1 250px; max-width: 100%; margin-top: 0; margin-bottom: 0;">
+</div>
+
+### **Admin Panel**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="Admin.png" alt="Admin Panel" style="flex: 1 1 250px; max-width: 100%; margin-top: 0; margin-bottom: 0;">
+</div>
+
+---
+
 ## **My Role**
-As the team leader for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality. I distributed tasks effectively, ensuring that each team member contributed to their strengths. I led the design and development process, coding most of the system and overseeing the execution of key features. Additionally, I supported my peers in creating the real-life mock-up, designing the poster, recording and editing the video, and preparing the presentation slides, fostering a collaborative and productive team environment.
-<!-- - Designing the **system architecture** to integrate IoT components, solar power, and user-centric features.
-- Conducting **research** to align the design with commuter needs and environmental sustainability.
-- Developing the **lighting system** with modified LED strips and a PWM-controlled brightness system.
-- Overseeing the **prototyping process**, including wiring and system integration. -->
+
+As the **team leader** for this project, I guided a group of four in transforming the vision of an IoT Smart Bus Stop into reality:
+
+- **Task Distribution** — Assigned responsibilities based on team members' strengths
+- **System Development** — Led the design and development process, coding most of the system
+- **Feature Oversight** — Oversaw the execution of key IoT and sustainability features
+- **Collaboration Support** — Assisted peers in creating the mock-up, designing the poster, recording/editing the video, and preparing presentation slides
+
 ---
 
 ## **Work Process**
@@ -232,20 +249,21 @@ The Smart Bus Stop successfully demonstrates:
 - **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.
 - **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
 
-#### **Technexus 2025**
-<div class="grid grid-cols-2 gap-4">
-    <div class="flex flex-col items-center">
-      <img src="technexus.jpg" alt="WRG Volunteers" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">Technexus 2025</div>
-    </div>
-    <div class="flex flex-col items-center">
-      <img src="technexus.png" alt="WRG Volunteers 1" class="w-32 h-auto">
-      <div class="text-sm text-gray-700 dark:text-gray-300">Technexus 2025</div>
-    </div>
+### **🏆 Technexus 2025**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
+  <div style="text-align: center;">
+    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
 </div>
 
 - Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
-- **2nd place** overall and **1st place** as Most Popular, voted by students and attendees, showcasing creativity, technical expertise, and practical applicability.
+- 🥈 **2nd Place Overall** and 🥇 **1st Place Most Popular**, voted by students and attendees.
 
 **Presentation Slides**:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -258,7 +276,7 @@ The Smart Bus Stop successfully demonstrates:
 
 ---
 
-#### **The Lee Hsien Loong Interactive Digital Media Smart Nation Award**
+### **🏅 The Lee Hsien Loong Interactive Digital Media Smart Nation Award**
 
 This project was submitted to **The Lee Hsien Loong Interactive Digital Media Smart Nation Award**. While we didn't advance to the finals, the experience of pitching and presenting our vision was invaluable.
 
