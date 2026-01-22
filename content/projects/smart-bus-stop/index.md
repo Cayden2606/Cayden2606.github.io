@@ -145,14 +145,30 @@ The **Smart Bus Stop** addresses these challenges by:
   <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
   <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
 </div>
-<div style="text-align: center;">
-  <img src="Media/technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
-  <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
-</div>
 
+
+---
 ---
 ## **Video Demonstration**
 {{< youtube NK4PLsqH9vE >}}
+
+---
+
+### **🏆 Technexus 2025**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
+  <div style="text-align: center;">
+    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
+    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+  </div>
+</div>
+
+- Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
+- 🥈 **2nd Place Overall** and 🥇 **1st Place Most Popular**, voted by students and attendees.
 
 ---
 
@@ -253,21 +269,7 @@ The Smart Bus Stop successfully demonstrates:
 - **Sustainability**: Solar-powered systems reduce operational costs and carbon emissions.
 - **Enhanced User Experience**: Ergonomic seating, USB charging, and accessible features like braille and voice-enabled announcements.
 
-### **🏆 Technexus 2025**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 15px;">
-  <div style="text-align: center;">
-    <img src="technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="technexus.png" alt="Technexus 2025 Award" style="max-width: 100%; height: auto;">
-    <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
-  </div>
-</div>
-
-- Nominated and showcased at **Technexus 2025**, a prestigious academic project event.
-- 🥈 **2nd Place Overall** and 🥇 **1st Place Most Popular**, voted by students and attendees.
 
 **Presentation Slides**:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpztXXnkCvELb5wkHIPZOLc66UXb9YU94gcP-CCiEdJXxIL-WexqyYuXI0xBXN_4dLi2h4tWSFRWtJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
