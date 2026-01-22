@@ -145,6 +145,10 @@ The **Smart Bus Stop** addresses these challenges by:
   <img src="Media/busprototype.jpeg" alt="Smart Bus Stop Prototype" style="max-width: 100%; height: auto;">
   <div style="font-size: small; margin-top: -10px;">Smart Bus Stop Prototype</div>
 </div>
+<div style="text-align: center;">
+  <img src="Media/technexus.jpg" alt="Technexus 2025" style="max-width: 100%; height: auto;">
+  <div style="font-size: small; margin-top: -10px;">Technexus 2025</div>
+</div>
 
 ---
 ## **Video Demonstration**
